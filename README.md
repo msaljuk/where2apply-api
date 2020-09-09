@@ -71,4 +71,4 @@ gets the following response data:
 ```
 
 ## Version Control
-To make any changes to the API or script, submit a PR. After code review, it'll be merged to `master`. The `master` branch is linked to the Heroku Dashboard so any new deploys on Github automatically trigger a reploy on Heroku. 
+To make any changes to the API or script, submit a PR. After code review, it'll be merged to `master`. The `master` branch is linked to the Heroku Dashboard so any new deploys on Github automatically trigger a redeploy on Heroku. 
