@@ -1,0 +1,866 @@
+,Rankings,College Name,Area Type,Region,Ownership,Student-to-Faculty Ratio,Enrolled Full Time Total,Average GPA,Average SATVR,Average SATMT
+0,1.0,Stanford University,Suburb: Large,Far West,Private not-for-profit independent,5.0,1697.0,3.9,735.0,760.0
+1,2.0,Massachusetts Institute Of Technology,City: Midsize,New England,Private not-for-profit independent,3.0,1114.0,4.0,745.0,790.0
+2,3.0,Columbia University In The City Of New York,City: Large,Mid East,Private not-for-profit independent,6.0,1447.0,,735.0,770.0
+3,4.0,University Of Pennsylvania,City: Large,Mid East,Private not-for-profit independent,6.0,2518.0,3.9,725.0,760.0
+4,5.0,Yale University,City: Midsize,New England,Private not-for-profit independent,6.0,1573.0,,745.0,770.0
+5,6.0,Harvard University,City: Midsize,New England,Private not-for-profit independent,7.0,1653.0,,750.0,770.0
+6,7.0,Duke University,City: Large,Southeast,Private not-for-profit religious,6.0,1745.0,,740.0,770.0
+7,8.0,Princeton University,Suburb: Large,Mid East,Private not-for-profit independent,5.0,1339.0,3.9,740.0,765.0
+8,9.0,Cornell University,City: Small,Mid East,Private not-for-profit independent,9.0,3295.0,,715.0,750.0
+9,10.0,California Institute Of Technology,City: Midsize,Far West,Private not-for-profit independent,3.0,231.0,4.0,760.0,795.0
+10,11.0,Johns Hopkins University,City: Large,Mid East,Private not-for-profit independent,7.0,1413.0,3.9,735.0,770.0
+11,11.0,Washington University In St Louis,Suburb: Large,Plains,Private not-for-profit independent,7.0,1785.0,4.0,740.0,780.0
+12,13.0,Northwestern University,City: Small,Great Lakes,Private not-for-profit independent,6.0,1931.0,4.0,730.0,760.0
+13,13.0,University Of Chicago,City: Large,Great Lakes,Private not-for-profit independent,5.0,1805.0,,745.0,775.0
+14,15.0,University Of Southern California,City: Large,Far West,Private not-for-profit independent,9.0,3401.0,3.8,700.0,740.0
+15,16.0,Dartmouth College,Town: Remote,New England,Private not-for-profit independent,7.0,1167.0,4.0,735.0,755.0
+16,17.0,Emory University,City: Large,Southeast,Private not-for-profit religious,9.0,1429.0,3.8,695.0,740.0
+17,18.0,Rice University,City: Large,Southwest,Private not-for-profit independent,6.0,960.0,4.0,730.0,775.0
+18,19.0,Carnegie Mellon University,City: Large,Mid East,Private not-for-profit independent,10.0,1572.0,3.8,725.0,775.0
+19,20.0,Brown University,City: Midsize,New England,Private not-for-profit independent,6.0,1656.0,4.0,730.0,755.0
+20,21.0,Vanderbilt University,City: Large,Southeast,Private not-for-profit independent,7.0,1601.0,3.8,730.0,775.0
+21,22.0,Williams College,Town: Fringe,New England,Private not-for-profit independent,6.0,533.0,4.0,735.0,745.0
+22,23.0,Amherst College,Suburb: Large,New England,Private not-for-profit independent,7.0,492.0,4.0,705.0,725.0
+23,24.0,University Of Michigan-Ann Arbor,City: Midsize,Great Lakes,Public,11.0,6664.0,3.9,695.0,725.0
+24,25.0,University Of Notre Dame,Suburb: Large,Great Lakes,Private not-for-profit religious,10.0,2070.0,4.0,725.0,750.0
+25,27.0,Tufts University,Suburb: Large,New England,Private not-for-profit independent,9.0,1484.0,4.0,715.0,740.0
+26,28.0,Pomona College,Suburb: Large,Far West,Private not-for-profit independent,7.0,412.0,4.0,730.0,740.0
+27,29.0,Georgetown University,City: Large,Mid East,Private not-for-profit religious,11.0,1618.0,4.0,715.0,735.0
+28,30.0,University Of North Carolina At Chapel Hill,City: Small,Southeast,Public,13.0,4318.0,4.0,675.0,700.0
+29,30.0,Wellesley College,Suburb: Large,New England,Private not-for-profit independent,8.0,614.0,4.0,705.0,720.0
+30,32.0,Case Western Reserve University,City: Large,Great Lakes,Private not-for-profit independent,11.0,1393.0,4.0,690.0,745.0
+31,33.0,New York University,City: Large,Mid East,Private not-for-profit independent,9.0,6160.0,3.6,685.0,725.0
+32,34.0,Swarthmore College,Suburb: Large,Mid East,Private not-for-profit independent,8.0,414.0,4.0,720.0,745.0
+33,35.0,Smith College,Suburb: Large,New England,Private not-for-profit independent,9.0,613.0,3.8,,
+34,36.0,Middlebury College,Town: Distant,New England,Private not-for-profit independent,8.0,628.0,4.0,695.0,720.0
+35,37.0,University Of Miami,Suburb: Large,Southeast,Private not-for-profit independent,12.0,2342.0,3.6,655.0,685.0
+36,37.0,Carleton College,Town: Distant,Plains,Private not-for-profit independent,9.0,529.0,4.0,710.0,730.0
+37,37.0,Haverford College,Suburb: Large,Mid East,Private not-for-profit independent,8.0,357.0,4.0,715.0,735.0
+38,42.0,Boston University,City: Large,New England,Private not-for-profit independent,10.0,3611.0,3.7,685.0,730.0
+39,44.0,Bowdoin College,Town: Fringe,New England,Private not-for-profit independent,9.0,510.0,3.9,,
+40,45.0,Wesleyan University,City: Small,New England,Private not-for-profit independent,8.0,803.0,3.9,,
+41,46.0,Claremont Mckenna College,Suburb: Large,Far West,Private not-for-profit independent,8.0,324.0,,700.0,725.0
+42,47.0,Bryn Mawr College,Suburb: Large,Mid East,Private not-for-profit independent,9.0,391.0,,,
+43,48.0,University Of Illinois At Urbana-Champaign,City: Small,Great Lakes,Public,20.0,7600.0,3.7,645.0,685.0
+44,50.0,Lehigh University,City: Small,Mid East,Private not-for-profit independent,9.0,1275.0,3.9,655.0,705.0
+45,53.0,Bucknell University,Town: Distant,Mid East,Private not-for-profit independent,9.0,974.0,3.6,655.0,680.0
+46,54.0,Wake Forest University,City: Midsize,Southeast,Private not-for-profit independent,10.0,1420.0,3.9,,
+47,54.0,Colgate University,Town: Distant,Mid East,Private not-for-profit independent,9.0,815.0,3.8,690.0,725.0
+48,56.0,University Of Florida,City: Midsize,Southeast,Public,18.0,6768.0,4.0,675.0,685.0
+49,58.0,University Of Rochester,City: Midsize,Mid East,Private not-for-profit independent,10.0,1522.0,3.8,675.0,735.0
+50,59.0,University Of Pittsburgh-Pittsburgh Campus,City: Large,Mid East,Public,14.0,4125.0,4.0,665.0,685.0
+51,60.0,Hamilton College,Suburb: Midsize,Mid East,Private not-for-profit independent,9.0,481.0,4.0,705.0,725.0
+52,62.0,Oberlin College,Town: Fringe,Great Lakes,Private not-for-profit independent,9.0,805.0,3.6,695.0,690.0
+53,63.0,Boston College,City: Small,New England,Private not-for-profit religious,13.0,2327.0,3.9,685.0,720.0
+54,63.0,Michigan State University,City: Small,Great Lakes,Public,16.0,8500.0,3.7,605.0,605.0
+55,65.0,Trinity College,City: Midsize,New England,Private not-for-profit independent,9.0,579.0,3.8,670.0,710.0
+56,66.0,Colby College,Town: Remote,New England,Private not-for-profit independent,10.0,580.0,4.0,705.0,725.0
+57,67.0,George Washington University,City: Large,Mid East,Private not-for-profit independent,13.0,2838.0,3.7,680.0,690.0
+58,67.0,University Of Wisconsin-Madison,City: Large,Great Lakes,Public,17.0,6851.0,3.8,665.0,700.0
+59,67.0,Macalester College,City: Large,Plains,Private not-for-profit religious,10.0,621.0,3.9,690.0,715.0
+60,70.0,Worcester Polytechnic Institute,City: Midsize,New England,Private not-for-profit independent,13.0,1276.0,3.9,,
+61,72.0,Northeastern University,City: Large,New England,Private not-for-profit independent,14.0,2746.0,4.0,710.0,740.0
+62,73.0,Lafayette College,Suburb: Large,Mid East,Private not-for-profit religious,10.0,733.0,3.5,660.0,682.5
+63,73.0,Trinity University,City: Large,Southwest,Private not-for-profit religious,9.0,690.0,3.6,670.0,675.0
+64,75.0,Vassar College,Suburb: Large,Mid East,Private not-for-profit independent,8.0,686.0,4.0,710.0,730.0
+65,77.0,Davidson College,Suburb: Large,Southeast,Private not-for-profit religious,9.0,515.0,3.9,680.0,690.0
+66,78.0,Rensselaer Polytechnic Institute,City: Small,Mid East,Private not-for-profit independent,13.0,1778.0,3.8,680.0,735.0
+67,78.0,Grinnell College,Town: Remote,Plains,Private not-for-profit independent,9.0,463.0,4.0,707.5,742.5
+68,80.0,Barnard College,City: Large,Mid East,Private not-for-profit independent,9.0,602.0,4.0,705.0,710.0
+69,82.0,Drexel University,City: Large,Mid East,Private not-for-profit independent,11.0,3353.0,3.7,625.0,650.0
+70,83.0,Denison University,Suburb: Small,Great Lakes,Private not-for-profit independent,9.0,654.0,,635.0,660.0
+71,84.0,Occidental College,City: Large,Far West,Private not-for-profit independent,9.0,566.0,3.6,675.0,685.0
+72,84.0,University Of Richmond,City: Midsize,Southeast,Private not-for-profit independent,8.0,832.0,3.8,675.0,700.0
+73,86.0,Southern Methodist University,Suburb: Large,Southwest,Private not-for-profit religious,11.0,1526.0,3.6,670.0,700.0
+74,87.0,Howard University,City: Large,Mid East,Private not-for-profit independent,10.0,1498.0,3.3,620.0,592.5
+75,88.0,College Of The Holy Cross,City: Midsize,New England,Private not-for-profit religious,10.0,868.0,,,
+76,89.0,Brandeis University,City: Small,New England,Private not-for-profit independent,10.0,895.0,3.8,675.0,715.0
+77,90.0,University Of Denver,City: Large,Rocky Mountains,Private not-for-profit independent,12.0,1464.0,3.7,640.0,630.0
+78,91.0,Depauw University,Town: Distant,Great Lakes,Private not-for-profit independent,9.0,564.0,3.9,610.0,620.0
+79,92.0,Rose-Hulman Institute Of Technology,City: Small,Great Lakes,Private not-for-profit independent,11.0,501.0,4.0,655.0,720.0
+80,94.0,Kenyon College,Town: Distant,Great Lakes,Private not-for-profit independent,10.0,539.0,3.9,685.0,690.0
+81,95.0,Bentley University,City: Small,New England,Private not-for-profit independent,11.0,1014.0,3.8,640.0,685.0
+82,96.0,Connecticut College,City: Small,New England,Private not-for-profit independent,9.0,508.0,,680.0,680.0
+83,96.0,Scripps College,Suburb: Large,Far West,Private not-for-profit independent,10.0,252.0,3.1,700.0,690.0
+84,99.0,Stevens Institute Of Technology,Suburb: Large,Mid East,Private not-for-profit independent,11.0,1009.0,3.9,675.0,730.0
+85,102.0,Union College,Town: Remote,Southeast,Private not-for-profit religious,14.0,221.0,3.3,496.5,504.5
+86,102.0,Union College,City: Large,Plains,Private not-for-profit religious,9.0,155.0,3.3,550.0,505.0
+87,102.0,Union College,City: Small,Mid East,Private not-for-profit independent,10.0,571.0,3.3,,
+88,102.0,Union College,Town: Remote,Southeast,Private not-for-profit religious,14.0,221.0,3.3,496.5,504.5
+89,102.0,Union College,City: Large,Plains,Private not-for-profit religious,9.0,155.0,3.3,550.0,505.0
+90,102.0,Union College,City: Small,Mid East,Private not-for-profit independent,10.0,571.0,3.3,,
+91,102.0,Bates College,City: Small,New England,Private not-for-profit independent,10.0,522.0,3.9,,
+92,102.0,Union College,Town: Remote,Southeast,Private not-for-profit religious,14.0,221.0,3.3,496.5,504.5
+93,102.0,Union College,City: Large,Plains,Private not-for-profit religious,9.0,155.0,3.3,550.0,505.0
+94,102.0,Union College,City: Small,Mid East,Private not-for-profit independent,10.0,571.0,3.3,,
+95,104.0,Brigham Young University-Provo,City: Midsize,Rocky Mountains,Private not-for-profit religious,20.0,5635.0,3.9,655.0,650.0
+96,105.0,Rhode Island School Of Design,City: Midsize,New England,Private not-for-profit independent,9.0,473.0,3.6,645.0,665.0
+97,106.0,Syracuse University,City: Midsize,Mid East,Private not-for-profit independent,15.0,3595.0,3.7,630.0,645.0
+98,106.0,Spelman College,City: Large,Southeast,Private not-for-profit independent,11.0,571.0,3.6,595.0,555.0
+99,109.0,Washington And Lee University,Town: Distant,Southeast,Private not-for-profit independent,8.0,474.0,4.0,700.0,719.0
+100,110.0,Loyola Marymount University,City: Large,Far West,Private not-for-profit religious,10.0,1510.0,3.8,650.0,650.0
+101,110.0,Rutgers University-New Brunswick,City: Small,Mid East,Public,16.0,7028.0,3.8,635.0,665.0
+102,110.0,University Of Connecticut,Suburb: Large,New England,Public,16.0,3736.0,3.8,645.0,670.0
+103,114.0,Pepperdine University,Suburb: Large,Far West,Private not-for-profit religious,14.0,800.0,3.7,650.0,670.0
+104,114.0,Babson College,Suburb: Large,New England,Private not-for-profit independent,14.0,539.0,3.9,655.0,705.0
+105,116.0,Saint Louis University,City: Large,Plains,Private not-for-profit religious,9.0,1511.0,3.9,635.0,640.0
+106,117.0,University Of Illinois At Chicago,City: Large,Great Lakes,Public,18.0,4109.0,3.3,560.0,560.0
+107,117.0,Villanova University,Suburb: Large,Mid East,Private not-for-profit religious,11.0,1685.0,3.9,675.0,710.0
+108,117.0,The College Of Wooster,Town: Distant,Great Lakes,Private not-for-profit independent,11.0,569.0,3.7,625.0,625.0
+109,117.0,Seattle University,City: Large,Far West,Private not-for-profit religious,11.0,1074.0,3.6,615.0,610.0
+110,117.0,Mount Holyoke College,Suburb: Large,New England,Private not-for-profit independent,9.0,628.0,3.8,680.0,715.0
+111,122.0,Illinois Institute Of Technology,City: Large,Great Lakes,Private not-for-profit independent,12.0,608.0,4.0,640.0,670.0
+112,123.0,Dickinson College,City: Small,Mid East,Private not-for-profit independent,9.0,635.0,,,
+113,124.0,University Of The Pacific,City: Large,Far West,Private not-for-profit independent,13.0,953.0,3.5,610.0,625.0
+114,125.0,Gettysburg College,City: Small,Mid East,Private not-for-profit independent,9.0,748.0,3.8,,
+115,126.0,Colorado College,City: Large,Rocky Mountains,Private not-for-profit independent,10.0,544.0,3.5,,
+116,127.0,Pitzer College,Suburb: Large,Far West,Private not-for-profit independent,10.0,273.0,3.9,,
+117,128.0,Rochester Institute Of Technology,Suburb: Large,Mid East,Private not-for-profit independent,13.0,2845.0,3.7,635.0,665.0
+118,130.0,University At Buffalo,Suburb: Large,Mid East,Public,13.0,4252.0,3.6,610.0,635.0
+119,131.0,Santa Clara University,City: Midsize,Far West,Private not-for-profit religious,10.0,1390.0,3.7,665.0,690.0
+120,131.0,Furman University,Suburb: Large,Southeast,Private not-for-profit independent,10.0,711.0,,670.0,650.0
+121,134.0,Creighton University,City: Large,Plains,Private not-for-profit religious,11.0,1155.0,3.7,625.0,625.0
+122,134.0,Stony Brook University,Suburb: Large,Mid East,Public,18.0,3375.0,3.8,640.0,685.0
+123,136.0,Clarkson University,Town: Remote,Mid East,Private not-for-profit independent,14.0,797.0,3.7,615.0,640.0
+124,137.0,University Of Delaware,Suburb: Large,Mid East,Public,15.0,4694.0,3.7,630.0,625.0
+125,137.0,Reed College,City: Large,Far West,Private not-for-profit independent,9.0,363.0,3.9,710.0,705.0
+126,139.0,Skidmore College,Suburb: Small,Mid East,Private not-for-profit independent,8.0,678.0,3.8,656.5,655.0
+127,141.0,Rutgers University-Newark,City: Large,Mid East,Public,16.0,1318.0,,550.0,555.0
+128,141.0,Yeshiva University,City: Large,Mid East,Private not-for-profit independent,7.0,531.0,3.5,640.0,630.0
+129,143.0,North Carolina State University At Raleigh,City: Large,Southeast,Public,14.0,4939.0,3.8,650.0,670.0
+130,144.0,Gustavus Adolphus College,Town: Fringe,Plains,Private not-for-profit religious,11.0,651.0,3.6,,
+131,144.0,Allegheny College,Town: Distant,Mid East,Private not-for-profit religious,10.0,470.0,3.5,620.0,610.0
+132,144.0,Colorado School Of Mines,Suburb: Large,Rocky Mountains,Public,15.0,1196.0,3.8,670.0,700.0
+133,147.0,Ohio Northern University,Town: Fringe,Great Lakes,Private not-for-profit religious,11.0,681.0,3.6,590.0,600.0
+134,147.0,Centre College,Town: Distant,Southeast,Private not-for-profit religious,11.0,358.0,3.6,647.5,657.5
+135,149.0,Virginia Polytechnic Institute And State University,City: Small,Southeast,Public,14.0,6254.0,,635.0,650.0
+136,150.0,Rhodes College,City: Large,Southeast,Private not-for-profit religious,10.0,543.0,3.9,665.0,660.0
+137,150.0,Michigan Technological University,Town: Remote,Great Lakes,Public,13.0,1245.0,3.7,625.0,640.0
+138,150.0,Drake University,City: Midsize,Plains,Private not-for-profit independent,10.0,749.0,3.7,630.0,620.0
+139,153.0,Berea College,Town: Distant,Southeast,Private not-for-profit independent,10.0,438.0,3.5,555.0,566.5
+140,155.0,St Olaf College,Town: Distant,Plains,Private not-for-profit religious,12.0,809.0,3.7,650.0,650.0
+141,155.0,Butler University,City: Large,Great Lakes,Private not-for-profit independent,11.0,1326.0,3.9,625.0,625.0
+142,157.0,Bradley University,City: Midsize,Great Lakes,Private not-for-profit independent,12.0,1089.0,3.8,595.0,595.0
+143,159.0,Willamette University,City: Midsize,Far West,Private not-for-profit independent,11.0,389.0,3.8,,
+144,159.0,Marquette University,City: Large,Great Lakes,Private not-for-profit religious,14.0,2162.0,3.6,620.0,615.0
+145,159.0,Illinois Wesleyan University,City: Small,Great Lakes,Private not-for-profit independent,11.0,494.0,3.7,615.0,607.5
+146,162.0,University Of Arizona,City: Large,Southwest,Public,15.0,6011.0,3.4,595.0,595.0
+147,164.0,University Of Iowa,City: Small,Plains,Public,16.0,4726.0,3.6,610.0,615.0
+148,164.0,Elon University,Suburb: Midsize,Southeast,Private not-for-profit independent,12.0,1698.0,4.0,625.0,615.0
+149,166.0,Hampton University,City: Midsize,Southeast,Private not-for-profit independent,13.0,910.0,3.7,,
+150,166.0,University Of Tulsa,City: Large,Southwest,Private not-for-profit religious,11.0,802.0,,650.0,645.0
+151,166.0,Loyola University Chicago,City: Large,Great Lakes,Private not-for-profit religious,14.0,2770.0,3.7,615.0,600.0
+152,170.0,Susquehanna University,Town: Distant,Mid East,Private not-for-profit religious,12.0,619.0,3.7,,
+153,170.0,University Of Puget Sound,City: Midsize,Far West,Private not-for-profit independent,11.0,653.0,3.5,,
+154,172.0,Kalamazoo College,City: Small,Great Lakes,Private not-for-profit independent,13.0,408.0,3.8,,
+155,172.0,Stonehill College,Suburb: Large,New England,Private not-for-profit religious,12.0,650.0,3.4,,
+156,174.0,Ursinus College,Suburb: Large,Mid East,Private not-for-profit independent,10.0,378.0,3.3,620.0,610.0
+157,174.0,Loyola University Maryland,City: Large,Mid East,Private not-for-profit religious,12.0,1068.0,3.4,,
+158,178.0,University Of San Diego,City: Large,Far West,Private not-for-profit religious,14.0,1308.0,3.9,635.0,640.0
+159,180.0,Temple University,City: Large,Mid East,Public,14.0,5009.0,3.5,,
+160,180.0,Missouri University Of Science And Technology,Town: Remote,Plains,Public,18.0,1309.0,3.6,635.0,649.0
+161,182.0,University Of Dayton,City: Midsize,Great Lakes,Private not-for-profit religious,14.0,2198.0,3.8,605.0,605.0
+162,182.0,Lewis & Clark College,City: Large,Far West,Private not-for-profit independent,12.0,562.0,,,
+163,182.0,Albion College,Town: Fringe,Great Lakes,Private not-for-profit religious,11.0,428.0,3.5,570.0,555.0
+164,185.0,Whitman College,City: Small,Far West,Private not-for-profit independent,9.0,426.0,3.8,660.0,680.0
+165,186.0,Baylor University,City: Midsize,Southwest,Private not-for-profit religious,14.0,3364.0,3.7,640.0,640.0
+166,186.0,Muhlenberg College,City: Midsize,Mid East,Private not-for-profit religious,10.0,548.0,3.3,635.0,630.0
+167,186.0,St Lawrence University,Town: Remote,Mid East,Private not-for-profit independent,11.0,640.0,3.6,635.0,637.5
+168,186.0,University Of Colorado Boulder,City: Midsize,Rocky Mountains,Public,18.0,6601.0,3.7,625.0,630.0
+169,190.0,Virginia Military Institute,Town: Distant,Southeast,Public,10.0,475.0,3.7,610.0,595.0
+170,192.0,Bryant University,Suburb: Large,New England,Private not-for-profit independent,13.0,866.0,3.4,,
+171,194.0,Molloy College,Suburb: Large,Mid East,Private not-for-profit religious,10.0,592.0,3.0,575.0,570.0
+172,194.0,Ithaca College,Suburb: Small,Mid East,Private not-for-profit independent,10.0,1666.0,3.6,,
+173,196.0,Texas Christian University,City: Large,Southwest,Private not-for-profit religious,13.0,2187.0,3.7,620.0,626.5
+174,197.0,Mercer University,City: Midsize,Southeast,Private not-for-profit independent,13.0,972.0,3.9,635.0,625.0
+175,197.0,Siena College,Suburb: Large,Mid East,Private not-for-profit religious,12.0,745.0,3.5,,
+176,197.0,Fordham University,City: Large,Mid East,Private not-for-profit religious,15.0,2285.0,3.6,660.0,680.0
+177,200.0,Ohio Wesleyan University,Suburb: Large,Great Lakes,Private not-for-profit religious,10.0,453.0,3.4,,
+178,200.0,Otis College Of Art And Design,City: Large,Far West,Private not-for-profit independent,8.0,276.0,3.2,590.0,570.0
+179,202.0,University Of San Francisco,City: Large,Far West,Private not-for-profit religious,13.0,1541.0,3.5,615.0,615.0
+180,202.0,Knox College,Town: Distant,Great Lakes,Private not-for-profit independent,11.0,345.0,3.6,,
+181,204.0,Fairfield University,Suburb: Large,New England,Private not-for-profit religious,12.0,1091.0,3.6,,
+182,204.0,Earlham College,Town: Distant,Great Lakes,Private not-for-profit religious,10.0,271.0,3.7,630.0,640.0
+183,206.0,Kettering University,City: Small,Great Lakes,Private not-for-profit independent,15.0,363.0,3.7,630.0,650.0
+184,207.0,Austin College,City: Small,Southwest,Private not-for-profit religious,13.0,435.0,3.6,620.0,610.0
+185,207.0,Clemson University,Suburb: Large,Southeast,Public,16.0,3790.0,,650.0,660.0
+186,207.0,Washington College,Town: Distant,Mid East,Private not-for-profit independent,10.0,310.0,3.7,,
+187,210.0,College Of Saint Benedict,Suburb: Midsize,Plains,Private not-for-profit religious,12.0,437.0,3.7,560.0,540.0
+188,210.0,Juniata College,Town: Distant,Mid East,Private not-for-profit independent,11.0,350.0,3.8,,
+189,210.0,University Of Scranton,City: Small,Mid East,Private not-for-profit religious,13.0,954.0,3.5,605.0,595.0
+190,210.0,Wofford College,City: Small,Southeast,Private not-for-profit religious,11.0,465.0,3.6,635.0,630.0
+191,210.0,Washington & Jefferson College,Suburb: Large,Mid East,Private not-for-profit independent,11.0,351.0,3.7,,
+192,215.0,American University,City: Large,Mid East,Private not-for-profit religious,12.0,1752.0,3.7,665.0,635.0
+193,215.0,Gonzaga University,City: Midsize,Far West,Private not-for-profit religious,11.0,1196.0,3.8,635.0,635.0
+194,218.0,Samford University,Suburb: Large,Southeast,Private not-for-profit religious,12.0,958.0,3.8,601.0,570.0
+195,219.0,Quinnipiac University,Suburb: Large,New England,Private not-for-profit independent,14.0,1895.0,3.5,590.0,585.0
+196,219.0,Florida Institute Of Technology,City: Small,Southeast,Private not-for-profit independent,14.0,779.0,3.7,615.0,630.0
+197,221.0,Marietta College,Town: Fringe,Great Lakes,Private not-for-profit independent,9.0,347.0,3.4,552.5,547.5
+198,223.0,Manhattan College,City: Large,Mid East,Private not-for-profit religious,13.0,813.0,3.5,585.0,580.0
+199,223.0,Lake Forest College,Suburb: Large,Great Lakes,Private not-for-profit independent,12.0,389.0,3.6,,
+200,223.0,Chapman University,City: Midsize,Far West,Private not-for-profit religious,13.0,1656.0,3.8,640.0,640.0
+201,226.0,Florida State University,City: Midsize,Southeast,Public,21.0,6260.0,4.0,645.0,630.0
+202,226.0,Lawrence University,City: Small,Great Lakes,Private not-for-profit independent,8.0,396.0,3.5,660.0,670.0
+203,226.0,Beloit College,City: Small,Great Lakes,Private not-for-profit independent,10.0,266.0,3.3,620.0,620.0
+204,229.0,Rollins College,Suburb: Large,Southeast,Private not-for-profit independent,10.0,549.0,3.3,,
+205,229.0,Xavier University,City: Large,Great Lakes,Private not-for-profit religious,11.0,1399.0,3.5,585.0,575.0
+206,232.0,Duquesne University,City: Large,Mid East,Private not-for-profit religious,13.0,1507.0,3.8,615.0,595.0
+207,233.0,Catholic University Of America,City: Large,Mid East,Private not-for-profit religious,7.0,833.0,3.5,,
+208,235.0,Saint Anselm College,Suburb: Midsize,New England,Private not-for-profit religious,11.0,591.0,3.3,615.0,600.0
+209,235.0,Providence College,City: Midsize,New England,Private not-for-profit religious,11.0,1121.0,3.5,640.0,645.0
+210,235.0,Hope College,City: Small,Great Lakes,Private not-for-profit religious,11.0,798.0,3.9,620.0,600.0
+211,238.0,The College Of New Jersey,Suburb: Large,Mid East,Public,13.0,1550.0,3.7,625.0,630.0
+212,238.0,University Of Detroit Mercy,City: Large,Great Lakes,Private not-for-profit religious,11.0,564.0,3.6,575.0,575.0
+213,240.0,Southwestern University,Suburb: Large,Southwest,Private not-for-profit religious,12.0,442.0,3.5,630.0,600.0
+214,241.0,Drew University,Suburb: Large,Mid East,Private not-for-profit religious,11.0,420.0,3.5,,
+215,243.0,University Of The Sciences,City: Large,Mid East,Private not-for-profit independent,7.0,321.0,3.7,600.0,615.0
+216,243.0,University Of Alabama At Birmingham,City: Midsize,Southeast,Public,19.0,2245.0,3.6,555.0,555.0
+217,245.0,Clark University,City: Midsize,New England,Private not-for-profit independent,10.0,582.0,3.7,,
+218,245.0,University Of Georgia,City: Midsize,Southeast,Public,17.0,5703.0,4.0,665.0,660.0
+219,245.0,Dominican University Of California,City: Small,Far West,Private not-for-profit independent,9.0,289.0,3.7,562.5,560.0
+220,252.0,Widener University,Suburb: Large,Mid East,Private not-for-profit independent,13.0,768.0,3.5,555.0,555.0
+221,253.0,The University Of Tennessee-Knoxville,City: Midsize,Southeast,Public,17.0,5205.0,4.0,620.0,620.0
+222,254.0,Cornell College,Town: Fringe,Plains,Private not-for-profit religious,12.0,296.0,3.5,605.0,595.0
+223,254.0,George Mason University,Suburb: Large,Southeast,Public,17.0,3664.0,3.7,615.0,605.0
+224,256.0,Hanover College,Town: Distant,Great Lakes,Private not-for-profit religious,12.0,356.0,3.6,580.0,570.0
+225,256.0,Adelphi University,Suburb: Large,Mid East,Private not-for-profit independent,12.0,1237.0,3.5,585.0,590.0
+226,256.0,Washington State University,Town: Distant,Far West,Public,15.0,5048.0,3.4,560.0,555.0
+227,256.0,Suffolk University,City: Large,New England,Private not-for-profit independent,15.0,1226.0,3.2,570.0,555.0
+228,256.0,University Of South Carolina-Columbia,City: Midsize,Southeast,Public,17.0,5849.0,4.0,635.0,640.0
+229,261.0,College For Creative Studies,City: Large,Great Lakes,Private not-for-profit independent,10.0,245.0,3.2,560.0,515.0
+230,262.0,Rutgers University-Camden,City: Small,Mid East,Public,15.0,817.0,,545.0,545.0
+231,262.0,California Institute Of The Arts,Suburb: Large,Far West,Private not-for-profit independent,7.0,216.0,3.3,,
+232,264.0,Valparaiso University,Suburb: Large,Great Lakes,Private not-for-profit religious,11.0,756.0,3.7,585.0,585.0
+233,265.0,Tuskegee University,Town: Distant,Southeast,Private not-for-profit independent,14.0,538.0,3.1,490.0,470.0
+234,267.0,Alma College,Town: Distant,Great Lakes,Private not-for-profit religious,12.0,404.0,3.5,570.0,560.0
+235,270.0,Depaul University,City: Large,Great Lakes,Private not-for-profit religious,15.0,2570.0,3.7,,
+236,271.0,University Of Vermont,City: Small,New England,Public,16.0,2512.0,3.6,640.0,630.0
+237,273.0,Auburn University,City: Small,Southeast,Public,19.0,4744.0,3.9,615.0,615.0
+238,273.0,Luther College,Town: Remote,Plains,Private not-for-profit religious,11.0,554.0,3.7,585.0,595.0
+239,273.0,John Carroll University,Suburb: Large,Great Lakes,Private not-for-profit religious,13.0,843.0,3.6,595.0,595.0
+240,273.0,Houghton College,Rural: Remote,Mid East,Private not-for-profit religious,11.0,254.0,3.3,,
+241,277.0,Xavier University Of Louisiana,City: Large,Southeast,Private not-for-profit religious,15.0,861.0,3.4,577.5,525.0
+242,277.0,Sarah Lawrence College,Suburb: Large,Mid East,Private not-for-profit independent,9.0,425.0,3.7,685.0,645.0
+243,277.0,Goucher College,City: Small,Mid East,Private not-for-profit independent,10.0,432.0,3.1,,
+244,277.0,Westmont College,Suburb: Midsize,Far West,Private not-for-profit religious,11.0,344.0,3.6,630.0,610.0
+245,281.0,Calvin College,City: Midsize,Great Lakes,Private not-for-profit religious,12.0,823.0,3.8,625.0,635.0
+246,281.0,Elizabethtown College,Suburb: Large,Mid East,Private not-for-profit religious,11.0,386.0,3.5,590.0,590.0
+247,283.0,Seton Hall University,Suburb: Large,Mid East,Private not-for-profit religious,13.0,1524.0,3.5,615.0,615.0
+248,283.0,Saint Francis University,Town: Fringe,Mid East,Private not-for-profit religious,14.0,343.0,3.5,575.0,570.0
+249,285.0,La Salle University,City: Large,Mid East,Private not-for-profit religious,12.0,1040.0,3.4,,
+250,285.0,Transylvania University,City: Large,Southeast,Private not-for-profit religious,11.0,298.0,3.7,600.0,605.0
+251,287.0,Concordia College At Moorhead,Suburb: Midsize,Plains,Private not-for-profit religious,12.0,597.0,3.5,600.0,624.0
+252,288.0,Coe College,City: Midsize,Plains,Private not-for-profit religious,11.0,393.0,3.6,609.0,580.0
+253,290.0,Hendrix College,City: Small,Southeast,Private not-for-profit religious,10.0,309.0,3.9,650.0,625.0
+254,293.0,Hampshire College,Suburb: Large,New England,Private not-for-profit independent,10.0,282.0,,,
+255,294.0,University Of Saint Joseph,City: Small,New England,Private not-for-profit religious,8.0,218.0,3.4,570.0,550.0
+256,295.0,Queens University Of Charlotte,City: Large,Southeast,Private not-for-profit religious,10.0,368.0,3.7,569.0,556.5
+257,295.0,Cedar Crest College,City: Midsize,Mid East,Private not-for-profit independent,10.0,207.0,3.4,540.0,515.0
+258,295.0,Moravian College,City: Small,Mid East,Private not-for-profit religious,11.0,448.0,3.5,570.0,555.0
+259,298.0,University Of Kansas,City: Small,Plains,Public,17.0,4097.0,3.6,,
+260,301.0,Nazareth College,Suburb: Large,Mid East,Private not-for-profit independent,9.0,544.0,,,
+261,301.0,Rider University,Suburb: Large,Mid East,Private not-for-profit independent,10.0,918.0,3.4,550.0,545.0
+262,303.0,Pacific Lutheran University,Suburb: Large,Far West,Private not-for-profit religious,12.0,649.0,3.7,590.0,580.0
+263,303.0,Illinois College,Town: Distant,Great Lakes,Private not-for-profit religious,13.0,294.0,3.5,,
+264,305.0,Hampden-Sydney College,Rural: Distant,Southeast,Private not-for-profit independent,11.0,343.0,3.5,580.0,570.0
+265,305.0,University Of Portland,City: Large,Far West,Private not-for-profit religious,12.0,1003.0,3.7,620.0,610.0
+266,308.0,Western New England University,City: Midsize,New England,Private not-for-profit independent,13.0,750.0,3.4,575.0,580.0
+267,308.0,Bellarmine University,City: Large,Southeast,Private not-for-profit religious,11.0,653.0,3.6,590.0,575.0
+268,311.0,Baldwin Wallace University,Suburb: Large,Great Lakes,Private not-for-profit religious,11.0,677.0,3.5,580.0,560.0
+269,311.0,Bard College,Town: Fringe,Mid East,Private not-for-profit independent,9.0,486.0,3.8,,
+270,311.0,University Of Utah,City: Midsize,Rocky Mountains,Public,17.0,3987.0,3.6,620.0,620.0
+271,315.0,Oregon State University,City: Small,Far West,Public,17.0,3341.0,3.6,595.0,600.0
+272,315.0,Andrews University,Town: Fringe,Great Lakes,Private not-for-profit religious,10.0,289.0,3.6,600.0,570.0
+273,315.0,Iowa State University,City: Small,Plains,Public,19.0,6034.0,3.6,615.0,598.0
+274,315.0,University Of Redlands,City: Small,Far West,Private not-for-profit independent,12.0,702.0,3.7,595.0,575.0
+275,321.0,Lebanon Valley College,Suburb: Small,Mid East,Private not-for-profit religious,10.0,473.0,3.6,589.0,585.0
+276,321.0,Rowan University,Suburb: Large,Mid East,Public,17.0,2677.0,3.5,570.0,545.5
+277,325.0,Lawrence Technological University,City: Small,Great Lakes,Private not-for-profit independent,11.0,376.0,3.4,570.0,585.0
+278,325.0,University Of Missouri-Columbia,City: Midsize,Plains,Public,17.0,4615.0,3.6,600.0,590.0
+279,325.0,University Of Mississippi,Town: Remote,Southeast,Public,17.0,3400.0,3.6,585.0,575.0
+280,325.0,Hofstra University,Suburb: Large,Mid East,Private not-for-profit independent,13.0,1552.0,3.6,620.0,620.0
+281,325.0,University Of New England,Suburb: Midsize,New England,Private not-for-profit independent,13.0,635.0,3.4,575.0,570.0
+282,325.0,Saint Vincent College,Suburb: Large,Mid East,Private not-for-profit religious,11.0,417.0,3.5,575.0,555.0
+283,331.0,Morehouse College,City: Large,Southeast,Private not-for-profit independent,14.0,604.0,3.2,560.0,550.0
+284,331.0,William Jewell College,Suburb: Large,Plains,Private not-for-profit independent,10.0,167.0,3.6,575.0,575.0
+285,331.0,Pacific University,Suburb: Large,Far West,Private not-for-profit independent,10.0,421.0,3.6,580.0,575.0
+286,334.0,Georgetown College,Town: Fringe,Southeast,Private not-for-profit religious,11.0,265.0,3.4,545.0,535.0
+287,336.0,University Of Mount Union,Town: Fringe,Great Lakes,Private not-for-profit religious,13.0,625.0,3.4,540.0,544.0
+288,336.0,Elmhurst College,Suburb: Large,Great Lakes,Private not-for-profit religious,13.0,530.0,,550.0,541.5
+289,340.0,Campbell University,Town: Fringe,Southeast,Private not-for-profit religious,16.0,812.0,3.4,565.0,555.0
+290,340.0,California College Of The Arts,City: Large,Far West,Private not-for-profit independent,11.0,263.0,3.3,,
+291,340.0,University Of St Thomas,City: Large,Plains,Private not-for-profit religious,14.0,1759.0,3.6,620.0,635.0
+292,340.0,University Of St Thomas,City: Large,Southwest,Private not-for-profit religious,11.0,350.0,3.6,585.0,570.0
+293,340.0,University Of St Thomas,City: Large,Plains,Private not-for-profit religious,14.0,1759.0,3.6,620.0,635.0
+294,340.0,University Of St Thomas,City: Large,Southwest,Private not-for-profit religious,11.0,350.0,3.6,585.0,570.0
+295,344.0,Whittier College,Suburb: Large,Far West,Private not-for-profit independent,11.0,508.0,3.6,566.5,555.0
+296,344.0,Wayne State University,City: Large,Great Lakes,Public,14.0,2957.0,3.4,560.0,550.0
+297,344.0,Wartburg College,Town: Distant,Plains,Private not-for-profit religious,11.0,469.0,3.6,540.0,550.0
+298,347.0,Hartwick College,Town: Remote,Mid East,Private not-for-profit independent,10.0,407.0,3.0,560.0,570.0
+299,347.0,Hiram College,Town: Fringe,Great Lakes,Private not-for-profit independent,13.0,233.0,3.4,530.0,530.0
+300,350.0,Cuny Hunter College,City: Large,Mid East,Public,13.0,2589.0,3.5,610.0,630.0
+301,350.0,Azusa Pacific University,Suburb: Large,Far West,Private not-for-profit religious,11.0,1107.0,3.7,570.0,560.0
+302,350.0,Point Loma Nazarene University,City: Large,Far West,Private not-for-profit religious,14.0,657.0,3.8,615.0,605.0
+303,353.0,Assumption College,City: Midsize,New England,Private not-for-profit religious,11.0,553.0,3.3,,
+304,353.0,West Virginia University,City: Small,Southeast,Public,18.0,4714.0,3.7,575.0,570.0
+305,353.0,Stetson University,Suburb: Midsize,Southeast,Private not-for-profit independent,13.0,895.0,3.8,,
+306,353.0,Colorado State University-Fort Collins,City: Midsize,Rocky Mountains,Public,16.0,5282.0,3.6,590.0,585.0
+307,358.0,Eckerd College,City: Large,Southeast,Private not-for-profit religious,12.0,580.0,3.5,600.0,580.0
+308,360.0,Merrimack College,Suburb: Large,New England,Private not-for-profit religious,14.0,1122.0,,,
+309,360.0,Cuny Brooklyn College,City: Large,Mid East,Public,16.0,1738.0,3.3,565.0,585.0
+310,360.0,Taylor University,Town: Distant,Great Lakes,Private not-for-profit religious,12.0,532.0,3.7,600.0,590.0
+311,360.0,St Catherine University,City: Large,Plains,Private not-for-profit religious,10.0,400.0,3.6,619.0,572.0
+312,360.0,University Of Louisville,City: Large,Southeast,Public,14.0,2731.0,3.6,590.0,590.0
+313,360.0,Milwaukee School Of Engineering,City: Large,Great Lakes,Private not-for-profit independent,15.0,597.0,3.7,624.0,655.0
+314,366.0,New Jersey Institute Of Technology,City: Large,Mid East,Public,17.0,1264.0,3.6,625.0,660.0
+315,368.0,University Of Hartford,City: Midsize,New England,Private not-for-profit independent,9.0,1210.0,3.1,580.0,570.0
+316,371.0,Union University,City: Small,Southeast,Private not-for-profit religious,10.0,387.0,3.8,625.0,610.0
+317,372.0,Cedarville University,Town: Fringe,Great Lakes,Private not-for-profit religious,15.0,909.0,3.7,630.0,610.0
+318,372.0,Wittenberg University,City: Small,Great Lakes,Private not-for-profit religious,12.0,484.0,3.5,,
+319,372.0,University Of Missouri-Kansas City,City: Large,Plains,Public,15.0,1175.0,3.4,540.0,645.0
+320,375.0,Kansas State University,City: Small,Plains,Public,18.0,3413.0,3.5,,
+321,375.0,Le Moyne College,Suburb: Large,Mid East,Private not-for-profit religious,12.0,656.0,3.5,585.0,590.0
+322,375.0,University Of Oregon,City: Midsize,Far West,Public,17.0,4107.0,3.6,600.0,585.0
+323,375.0,Brigham Young University-Hawaii,Town: Fringe,Far West,Private not-for-profit religious,17.0,546.0,,596.5,570.0
+324,380.0,University Of Kentucky,City: Large,Southeast,Public,16.0,4980.0,3.5,600.0,590.0
+325,381.0,Clarke University,City: Small,Plains,Private not-for-profit religious,8.0,196.0,3.4,504.0,509.0
+326,383.0,San Diego State University,City: Large,Far West,Public,27.0,5646.0,3.7,605.0,605.0
+327,384.0,Messiah College,Suburb: Large,Mid East,Private not-for-profit religious,12.0,647.0,3.8,600.0,595.0
+328,384.0,University Of Wyoming,Town: Remote,Rocky Mountains,Public,15.0,1849.0,3.5,585.0,580.0
+329,384.0,University Of Evansville,City: Midsize,Great Lakes,Private not-for-profit religious,11.0,498.0,3.7,600.0,590.0
+330,387.0,Albright College,City: Small,Mid East,Private not-for-profit religious,15.0,575.0,,,
+331,388.0,Randolph-Macon College,Suburb: Large,Southeast,Private not-for-profit religious,11.0,420.0,3.6,575.0,555.0
+332,388.0,University Of Houston,City: Large,Southwest,Public,22.0,4919.0,3.8,610.0,610.0
+333,388.0,Marist College,Suburb: Large,Mid East,Private not-for-profit independent,16.0,1299.0,3.4,,
+334,392.0,Millikin University,City: Small,Great Lakes,Private not-for-profit religious,10.0,468.0,3.4,555.0,530.0
+335,392.0,Eastern Mennonite University,City: Small,Southeast,Private not-for-profit religious,9.0,200.0,3.6,565.0,550.0
+336,394.0,Capital University,Suburb: Large,Great Lakes,Private not-for-profit religious,11.0,589.0,3.6,560.0,545.0
+337,396.0,Monmouth College,Town: Distant,Great Lakes,Private not-for-profit religious,10.0,243.0,3.3,540.0,535.0
+338,398.0,Norwich University,Town: Distant,New England,Private not-for-profit independent,14.0,714.0,3.1,,
+339,398.0,Canisius College,City: Large,Mid East,Private not-for-profit religious,12.0,484.0,3.5,580.0,580.0
+340,398.0,Montclair State University,Suburb: Large,Mid East,Public,17.0,3168.0,3.3,545.0,535.0
+341,402.0,John Brown University,Town: Distant,Southeast,Private not-for-profit independent,14.0,319.0,3.7,637.5,600.0
+342,402.0,Carroll College,Town: Remote,Rocky Mountains,Private not-for-profit religious,12.0,254.0,3.6,590.0,580.0
+343,405.0,School Of The Art Institute Of Chicago,City: Large,Great Lakes,Private not-for-profit independent,11.0,631.0,3.5,620.0,610.0
+344,405.0,Mcdaniel College,Suburb: Small,Mid East,Private not-for-profit independent,11.0,415.0,3.5,575.0,565.0
+345,405.0,Otterbein University,Suburb: Large,Great Lakes,Private not-for-profit religious,11.0,576.0,3.6,602.5,592.5
+346,405.0,Suny College Of Environmental Science And Forestry,City: Midsize,Mid East,Public,14.0,386.0,3.8,610.0,605.0
+347,405.0,Illinois State University,Suburb: Midsize,Great Lakes,Public,20.0,3673.0,3.4,555.0,545.0
+348,411.0,Seattle Pacific University,City: Large,Far West,Private not-for-profit religious,13.0,708.0,3.5,575.0,560.0
+349,411.0,Maryland Institute College Of Art,City: Large,Mid East,Private not-for-profit independent,9.0,425.0,3.5,565.0,595.0
+350,414.0,Cuny Queens College,City: Large,Mid East,Public,15.0,1936.0,3.4,560.0,580.0
+351,414.0,Marymount University,City: Midsize,Southeast,Private not-for-profit religious,13.0,414.0,3.3,540.0,525.0
+352,417.0,James Madison University,City: Small,Southeast,Public,16.0,4540.0,3.2,610.0,595.0
+353,417.0,Gordon College,Suburb: Large,New England,Private not-for-profit religious,11.0,433.0,3.6,590.0,577.5
+354,419.0,Dordt College,Town: Remote,Plains,Private not-for-profit religious,14.0,328.0,,610.0,600.0
+355,420.0,New York Institute Of Technology,Suburb: Large,Mid East,Private not-for-profit independent,12.0,844.0,3.3,575.0,585.0
+356,421.0,Gannon University,City: Small,Mid East,Private not-for-profit religious,13.0,762.0,3.5,560.0,560.0
+357,423.0,Walla Walla University,Suburb: Small,Far West,Private not-for-profit religious,14.0,402.0,3.5,530.0,535.0
+358,427.0,Franklin College,Suburb: Large,Great Lakes,Private not-for-profit religious,11.0,272.0,3.5,540.0,535.0
+359,427.0,Roanoke College,Suburb: Midsize,Southeast,Private not-for-profit religious,11.0,576.0,3.5,580.0,555.0
+360,427.0,Eastern Illinois University,Town: Distant,Great Lakes,Public,13.0,796.0,3.2,520.0,495.0
+361,427.0,Oglethorpe University,Suburb: Large,Southeast,Private not-for-profit independent,15.0,329.0,3.6,615.0,585.0
+362,427.0,University Of Arkansas,City: Small,Southeast,Public,18.0,4977.0,3.7,605.0,590.0
+363,433.0,Roosevelt University,City: Large,Great Lakes,Private not-for-profit independent,10.0,323.0,3.4,555.0,540.0
+364,433.0,Hamline University,City: Large,Plains,Private not-for-profit religious,12.0,538.0,3.5,600.0,570.0
+365,433.0,Belmont University,City: Large,Southeast,Private not-for-profit religious,14.0,1561.0,3.7,620.0,590.0
+366,436.0,East Carolina University,City: Small,Southeast,Public,18.0,4106.0,3.8,560.0,555.0
+367,437.0,Misericordia University,Suburb: Large,Mid East,Private not-for-profit religious,11.0,410.0,3.4,560.0,560.0
+368,437.0,Central College,Town: Distant,Plains,Private not-for-profit religious,11.0,278.0,3.6,545.0,500.0
+369,439.0,Meredith College,City: Large,Southeast,Private not-for-profit independent,11.0,401.0,3.4,560.0,540.0
+370,439.0,Wagner College,City: Large,Mid East,Private not-for-profit religious,15.0,418.0,3.6,,
+371,441.0,Salem College,City: Midsize,Southeast,Private not-for-profit religious,11.0,101.0,3.8,585.0,570.0
+372,441.0,Nebraska Wesleyan University,City: Large,Plains,Private not-for-profit religious,10.0,487.0,3.6,570.0,570.0
+373,445.0,Florida Agricultural And Mechanical University,City: Midsize,Southeast,Public,16.0,1325.0,3.4,560.0,545.0
+374,445.0,University Of Central Florida,Suburb: Large,Southeast,Public,30.0,7066.0,4.0,630.0,620.0
+375,448.0,Simpson College,Town: Fringe,Plains,Private not-for-profit religious,11.0,360.0,,585.0,565.0
+376,448.0,The New School,City: Large,Mid East,Private not-for-profit independent,10.0,1763.0,3.6,630.0,625.0
+377,450.0,Stevenson University,Rural: Fringe,Mid East,Private not-for-profit independent,14.0,604.0,3.1,565.0,550.0
+378,450.0,Berry College,Suburb: Small,Southeast,Private not-for-profit independent,11.0,509.0,3.7,615.0,595.0
+379,450.0,Lycoming College,City: Small,Mid East,Private not-for-profit religious,12.0,323.0,3.5,555.0,549.0
+380,453.0,Winston-Salem State University,City: Midsize,Southeast,Public,14.0,934.0,3.0,485.0,475.0
+381,453.0,Emerson College,City: Large,New England,Private not-for-profit independent,15.0,923.0,3.7,650.0,645.0
+382,453.0,Roger Williams University,Suburb: Large,New England,Private not-for-profit independent,14.0,1040.0,3.3,,
+383,453.0,Salve Regina University,Suburb: Large,New England,Private not-for-profit religious,13.0,493.0,3.4,,
+384,453.0,University Of Indianapolis,City: Large,Great Lakes,Private not-for-profit religious,13.0,1210.0,3.5,550.0,535.0
+385,453.0,St Bonaventure University,Town: Remote,Mid East,Private not-for-profit religious,12.0,551.0,3.4,565.0,575.0
+386,453.0,Notre Dame Of Maryland University,City: Large,Mid East,Private not-for-profit religious,10.0,225.0,3.7,535.0,500.0
+387,461.0,Alfred University,Town: Remote,Mid East,Private not-for-profit independent,11.0,437.0,3.1,535.0,550.0
+388,461.0,Loyola University New Orleans,City: Large,Southeast,Private not-for-profit religious,12.0,768.0,3.5,595.0,555.0
+389,461.0,The University Of The Arts,City: Large,Mid East,Private not-for-profit independent,8.0,425.0,,,
+390,464.0,Massachusetts College Of Art And Design,City: Large,New England,Public,10.0,362.0,3.5,,
+391,464.0,Trinity Christian College,Suburb: Large,Great Lakes,Private not-for-profit religious,10.0,153.0,3.3,530.0,525.0
+392,464.0,Christian Brothers University,City: Large,Southeast,Private not-for-profit religious,12.0,393.0,3.7,,
+393,467.0,Massachusetts Maritime Academy,Suburb: Midsize,New England,Public,16.0,399.0,3.2,560.0,565.0
+394,469.0,University Of Dallas,City: Midsize,Southwest,Private not-for-profit religious,11.0,376.0,3.9,625.0,605.0
+395,469.0,University Of Nebraska-Lincoln,City: Large,Plains,Public,18.0,4802.0,3.6,625.0,620.0
+396,469.0,Wilkes University,City: Small,Mid East,Private not-for-profit independent,12.0,631.0,3.6,575.0,570.0
+397,469.0,Mcphs University,City: Large,New England,Private not-for-profit independent,16.0,682.0,3.5,555.0,575.0
+398,473.0,College Of Mount Saint Vincent,City: Large,Mid East,Private not-for-profit religious,13.0,412.0,3.1,515.0,500.0
+399,473.0,Virginia Commonwealth University,City: Midsize,Southeast,Public,18.0,4517.0,3.7,595.0,570.0
+400,473.0,University Of Michigan-Dearborn,City: Small,Great Lakes,Public,17.0,1059.0,3.6,590.0,590.0
+401,476.0,California Lutheran University,City: Midsize,Far West,Private not-for-profit religious,16.0,681.0,3.7,585.0,575.0
+402,476.0,South Dakota School Of Mines And Technology,City: Small,Plains,Public,15.0,457.0,3.6,620.0,641.5
+403,478.0,Wentworth Institute Of Technology,City: Large,New England,Private not-for-profit independent,18.0,1017.0,3.1,580.0,600.0
+404,478.0,Western Illinois University,Town: Remote,Great Lakes,Public,13.0,923.0,3.3,515.0,505.0
+405,480.0,Whitworth University,Suburb: Large,Far West,Private not-for-profit religious,11.0,696.0,3.8,600.0,590.0
+406,480.0,Lincoln Memorial University,Town: Distant,Southeast,Private not-for-profit independent,14.0,302.0,3.5,554.0,546.5
+407,483.0,Spring Hill College,City: Midsize,Southeast,Private not-for-profit religious,13.0,309.0,3.6,550.0,550.0
+408,483.0,Northwestern College,Town: Distant,Plains,Private not-for-profit religious,10.0,271.0,3.6,570.0,580.0
+409,483.0,Saint Xavier University,City: Large,Great Lakes,Private not-for-profit religious,15.0,703.0,3.4,525.0,515.0
+410,487.0,Mississippi State University,Town: Remote,Southeast,Public,17.0,3550.0,3.4,600.0,600.0
+411,487.0,Barry University,Suburb: Large,Southeast,Private not-for-profit religious,12.0,639.0,3.1,520.0,475.0
+412,487.0,University Of North Carolina At Charlotte,City: Large,Southeast,Public,19.0,3678.0,4.0,595.0,600.0
+413,492.0,Ferris State University,Town: Distant,Great Lakes,Public,16.0,1833.0,3.4,530.0,525.0
+414,492.0,Gwynedd Mercy University,Suburb: Large,Mid East,Private not-for-profit religious,10.0,276.0,3.2,520.0,505.0
+415,496.0,Stockton University,Suburb: Midsize,Mid East,Public,17.0,1594.0,3.4,550.0,545.0
+416,496.0,Chestnut Hill College,City: Large,Mid East,Private not-for-profit religious,10.0,164.0,3.2,520.0,510.0
+417,499.0,Chatham University,City: Large,Mid East,Private not-for-profit independent,10.0,278.0,3.7,,
+418,550.0,Iona College,Suburb: Large,Mid East,Private not-for-profit religious,16.0,852.0,3.0,545.0,535.0
+419,550.0,Hood College,City: Small,Mid East,Private not-for-profit independent,10.0,239.0,3.3,,
+420,550.0,University Of Idaho,Town: Distant,Rocky Mountains,Public,15.0,1406.0,3.4,565.0,550.0
+421,550.0,Waynesburg University,Town: Distant,Mid East,Private not-for-profit religious,13.0,325.0,3.6,540.0,525.0
+422,550.0,Texas Tech University,City: Large,Southwest,Public,20.0,6083.0,3.6,580.0,575.0
+423,550.0,Lipscomb University,City: Large,Southeast,Private not-for-profit religious,13.0,664.0,3.7,600.0,590.0
+424,550.0,Florida Southern College,City: Midsize,Southeast,Private not-for-profit religious,14.0,702.0,3.7,620.0,595.0
+425,550.0,Holy Family University,City: Large,Mid East,Private not-for-profit religious,12.0,354.0,3.1,517.5,495.0
+426,550.0,Nova Southeastern University,Suburb: Large,Southeast,Private not-for-profit independent,17.0,1241.0,4.0,600.0,585.0
+427,550.0,Florida International University,Suburb: Large,Southeast,Public,26.0,1698.0,4.0,600.0,575.0
+428,550.0,Loras College,City: Small,Plains,Private not-for-profit religious,13.0,360.0,3.4,535.0,555.5
+429,550.0,Western Washington University,City: Small,Far West,Public,18.0,3117.0,3.5,600.0,580.0
+430,550.0,Muskingum University,Town: Distant,Great Lakes,Private not-for-profit religious,12.0,369.0,3.3,541.5,536.5
+431,550.0,Cuny Lehman College,City: Large,Mid East,Public,16.0,1012.0,,525.0,520.0
+432,550.0,University Of North Carolina At Greensboro,City: Large,Southeast,Public,17.0,2972.0,3.7,545.0,530.0
+433,550.0,Harding University,Town: Distant,Southeast,Private not-for-profit religious,16.0,856.0,3.6,600.0,580.0
+434,550.0,Franciscan University Of Steubenville,City: Small,Great Lakes,Private not-for-profit religious,15.0,564.0,3.6,605.0,565.0
+435,550.0,University Of New Haven,Suburb: Large,New England,Private not-for-profit independent,16.0,1331.0,3.4,570.0,555.0
+436,550.0,Sacred Heart University,Suburb: Large,New England,Private not-for-profit religious,13.0,1464.0,3.5,,
+437,550.0,Mercyhurst University,City: Small,Mid East,Private not-for-profit religious,14.0,642.0,3.4,,
+438,550.0,Suny Cortland,Town: Distant,Mid East,Public,16.0,1220.0,3.4,565.0,565.0
+439,550.0,St Francis College,City: Large,Mid East,Private not-for-profit independent,15.0,561.0,,,
+440,550.0,Western Michigan University,City: Small,Great Lakes,Public,16.0,2990.0,3.4,550.0,540.0
+441,550.0,Trine University,Town: Distant,Great Lakes,Private not-for-profit independent,15.0,641.0,3.5,555.0,565.0
+442,550.0,Delaware State University,City: Small,Mid East,Public,15.0,1005.0,3.1,480.0,445.0
+443,550.0,Roberts Wesleyan College,Suburb: Large,Mid East,Private not-for-profit religious,13.0,228.0,3.5,555.0,565.0
+444,550.0,University Of Toledo,City: Large,Great Lakes,Public,20.0,3214.0,3.5,560.0,570.0
+445,550.0,Abilene Christian University,City: Midsize,Southwest,Private not-for-profit religious,15.0,905.0,3.6,575.0,560.0
+446,550.0,Niagara University,Suburb: Large,Mid East,Private not-for-profit religious,11.0,513.0,3.4,555.0,555.0
+447,550.0,Trinity Washington University,City: Large,Mid East,Private not-for-profit religious,12.0,212.0,,,
+448,550.0,Bethel University,Suburb: Large,Plains,Private not-for-profit religious,12.0,608.0,3.6,595.5,564.0
+449,550.0,Bethel University,Town: Distant,Southeast,Private not-for-profit religious,17.0,408.0,3.6,475.0,471.0
+450,550.0,Asbury University,Town: Fringe,Southeast,Private not-for-profit independent,12.0,273.0,3.7,,
+451,550.0,Adrian College,Town: Distant,Great Lakes,Private not-for-profit religious,14.0,634.0,3.2,525.0,523.0
+452,550.0,Huntington University,Town: Distant,Great Lakes,Private not-for-profit religious,12.0,239.0,3.4,545.0,540.0
+453,550.0,Manhattanville College,Suburb: Large,Mid East,Private not-for-profit independent,11.0,392.0,3.2,,
+454,550.0,Martin Luther College,Town: Distant,Plains,Private not-for-profit religious,12.0,195.0,3.5,585.0,580.0
+455,550.0,University Of Maine,Suburb: Small,New England,Public,15.0,2232.0,3.3,580.0,570.0
+456,550.0,Shenandoah University,City: Small,Southeast,Private not-for-profit religious,11.0,443.0,3.5,550.0,535.0
+457,550.0,Towson University,City: Small,Mid East,Public,17.0,2990.0,3.6,575.0,555.0
+458,550.0,Carson-Newman University,Suburb: Small,Southeast,Private not-for-profit religious,13.0,479.0,3.5,539.0,525.0
+459,550.0,Mount Mercy University,City: Midsize,Plains,Private not-for-profit religious,15.0,239.0,3.4,,
+460,550.0,University Of North Dakota,City: Small,Plains,Public,18.0,1809.0,3.5,540.0,565.0
+461,550.0,Georgia State University,City: Large,Southeast,Public,23.0,4865.0,3.5,585.0,570.0
+462,550.0,Geneva College,Suburb: Large,Mid East,Private not-for-profit religious,12.0,305.0,3.4,565.0,555.0
+463,550.0,Desales University,Suburb: Large,Mid East,Private not-for-profit religious,14.0,502.0,3.3,565.0,555.0
+464,550.0,Hastings College,Town: Distant,Plains,Private not-for-profit religious,12.0,264.0,,525.0,510.0
+465,550.0,Guilford College,City: Large,Southeast,Private not-for-profit religious,12.0,358.0,3.2,,
+466,550.0,Cleveland State University,City: Large,Great Lakes,Public,16.0,1946.0,3.4,545.0,535.0
+467,550.0,Arcadia University,Suburb: Large,Mid East,Private not-for-profit religious,12.0,472.0,3.6,590.0,560.0
+468,550.0,Alverno College,City: Large,Great Lakes,Private not-for-profit religious,10.0,185.0,3.1,,
+469,550.0,University Of Charleston,City: Small,Southeast,Private not-for-profit independent,15.0,292.0,3.4,515.5,509.0
+470,550.0,Texas Lutheran University,Town: Fringe,Southwest,Private not-for-profit religious,14.0,364.0,3.6,535.0,540.0
+471,550.0,Ashland University,Town: Fringe,Great Lakes,Private not-for-profit religious,16.0,602.0,3.4,555.0,547.5
+472,550.0,South Dakota State University,Town: Remote,Plains,Public,17.0,2114.0,3.4,555.0,580.0
+473,550.0,Bluffton University,Town: Distant,Great Lakes,Private not-for-profit religious,11.0,174.0,3.3,490.0,495.0
+474,550.0,Truman State University,Town: Remote,Plains,Public,17.0,1097.0,3.8,610.0,609.0
+475,550.0,University Of Northern Iowa,City: Small,Plains,Public,18.0,1653.0,3.6,555.5,555.0
+476,550.0,University Of Pittsburgh-Bradford,Town: Remote,Mid East,Public,15.0,355.0,3.3,535.0,535.0
+477,550.0,University Of Alaska Fairbanks,Suburb: Small,Far West,Public,11.0,584.0,3.3,585.0,575.0
+478,550.0,University Of North Texas,City: Midsize,Southwest,Public,25.0,4773.0,3.5,590.0,570.0
+479,550.0,Northern Illinois University,Suburb: Small,Great Lakes,Public,13.0,1831.0,3.3,545.0,535.0
+480,550.0,College Of Our Lady Of The Elms,Suburb: Large,New England,Private not-for-profit religious,11.0,141.0,3.3,530.0,540.0
+481,550.0,Avila University,City: Large,Plains,Private not-for-profit religious,12.0,168.0,3.2,525.0,525.0
+482,550.0,Eastern University,Suburb: Large,Mid East,Private not-for-profit religious,10.0,400.0,3.5,575.0,535.0
+483,550.0,Hardin-Simmons University,City: Midsize,Southwest,Private not-for-profit religious,12.0,480.0,3.5,545.0,540.0
+484,550.0,San Jose State University,City: Large,Far West,Public,26.0,3704.0,3.5,565.0,580.0
+485,550.0,University Of Memphis,City: Large,Southeast,Public,15.0,2428.0,3.5,560.0,530.0
+486,550.0,Marywood University,City: Small,Mid East,Private not-for-profit religious,12.0,388.0,3.5,555.0,545.0
+487,550.0,Hawaii Pacific University,City: Large,Far West,Private not-for-profit independent,15.0,556.0,3.5,570.0,550.0
+488,550.0,Regis College,Suburb: Large,New England,Private not-for-profit religious,9.0,240.0,3.1,,
+489,550.0,Bethel College-Indiana,City: Small,Great Lakes,Private not-for-profit religious,12.0,295.0,,540.0,530.0
+490,550.0,Edgewood College,City: Large,Great Lakes,Private not-for-profit religious,10.0,255.0,3.5,560.0,535.0
+491,550.0,Bethel University,Suburb: Large,Plains,Private not-for-profit religious,12.0,608.0,3.6,595.5,564.0
+492,550.0,Bethel University,Town: Distant,Southeast,Private not-for-profit religious,17.0,408.0,3.6,475.0,471.0
+493,550.0,Berklee College Of Music,City: Large,New England,Private not-for-profit independent,10.0,1196.0,3.0,,
+494,550.0,Robert Morris University,Suburb: Large,Mid East,Private not-for-profit independent,15.0,815.0,3.5,560.0,555.0
+495,550.0,Monmouth University,Suburb: Large,Mid East,Private not-for-profit independent,13.0,1050.0,3.3,590.0,555.0
+496,550.0,Lewis University,Suburb: Large,Great Lakes,Private not-for-profit religious,13.0,644.0,3.5,560.0,560.0
+497,550.0,University Of Rhode Island,Suburb: Large,New England,Public,16.0,3039.0,3.5,580.0,575.0
+498,550.0,Suny College At Brockport,Town: Fringe,Mid East,Public,18.0,1270.0,2.9,550.0,550.0
+499,550.0,George Fox University,Town: Fringe,Far West,Private not-for-profit religious,14.0,593.0,3.6,575.0,550.0
+500,550.0,Oregon Institute Of Technology,Town: Remote,Far West,Public,15.0,331.0,3.5,565.0,570.0
+501,550.0,Wisconsin Lutheran College,City: Large,Great Lakes,Private not-for-profit religious,12.0,292.0,3.4,551.5,555.5
+502,550.0,University Of Wisconsin-La Crosse,City: Small,Great Lakes,Public,19.0,2176.0,,,
+503,700.0,College Of Charleston,City: Midsize,Southeast,Public,15.0,2197.0,3.9,595.0,565.0
+504,700.0,Maryville College,Suburb: Large,Southeast,Private not-for-profit religious,12.0,282.0,3.5,520.0,515.0
+505,700.0,Sonoma State University,Suburb: Large,Far West,Public,23.0,1766.0,3.2,540.0,535.0
+506,700.0,Mount Vernon Nazarene University,Town: Distant,Great Lakes,Private not-for-profit religious,10.0,372.0,3.5,530.0,515.0
+507,700.0,Francis Marion University,Suburb: Small,Southeast,Public,15.0,756.0,,465.0,455.0
+508,700.0,Claflin University,Town: Distant,Southeast,Private not-for-profit religious,14.0,572.0,3.3,480.0,465.0
+509,700.0,Coker College,Town: Distant,Southeast,Private not-for-profit independent,12.0,293.0,,530.0,525.0
+510,700.0,William Jessup University,Rural: Fringe,Far West,Private not-for-profit religious,12.0,210.0,3.3,546.5,520.0
+511,700.0,Heidelberg University,Town: Distant,Great Lakes,Private not-for-profit religious,13.0,329.0,3.5,545.0,535.0
+512,700.0,Malone University,City: Small,Great Lakes,Private not-for-profit religious,11.0,309.0,3.3,540.0,525.0
+513,700.0,Milligan College,Suburb: Midsize,Southeast,Private not-for-profit religious,9.0,155.0,3.8,595.0,595.0
+514,700.0,San Francisco State University,City: Large,Far West,Public,23.0,4066.0,3.3,535.0,520.0
+515,700.0,Winthrop University,City: Small,Southeast,Public,14.0,990.0,4.0,545.0,510.0
+516,700.0,Johnson & Wales University-Providence,City: Midsize,New England,Private not-for-profit independent,18.0,1474.0,,,
+517,700.0,University Of Pittsburgh-Johnstown,Suburb: Small,Mid East,Public,17.0,662.0,3.5,555.0,555.0
+518,700.0,Alvernia University,City: Small,Mid East,Private not-for-profit religious,12.0,434.0,3.3,525.0,515.0
+519,700.0,Bloomsburg University Of Pennsylvania,City: Small,Mid East,Public,19.0,1841.0,3.3,540.0,530.0
+520,700.0,California Baptist University,City: Large,Far West,Private not-for-profit religious,14.0,1570.0,3.6,560.0,535.0
+521,700.0,Cabrini University,Suburb: Large,Mid East,Private not-for-profit religious,13.0,442.0,3.1,,
+522,700.0,Carlow University,City: Large,Mid East,Private not-for-profit religious,12.0,247.0,3.5,555.0,535.0
+523,700.0,Biola University,Suburb: Large,Far West,Private not-for-profit religious,14.0,857.0,3.3,590.0,570.0
+524,700.0,University Of Pittsburgh-Greensburg,Suburb: Large,Mid East,Public,18.0,398.0,3.4,555.0,545.0
+525,700.0,Mount Marty College,Town: Remote,Plains,Private not-for-profit religious,13.0,136.0,3.4,475.0,455.0
+526,700.0,Ouachita Baptist University,Town: Distant,Southeast,Private not-for-profit religious,12.0,443.0,3.7,575.0,570.0
+527,700.0,Northern Arizona University,City: Small,Southwest,Public,19.0,5047.0,3.6,,
+528,700.0,University Of South Carolina-Upstate,Suburb: Midsize,Southeast,Public,16.0,1008.0,2.7,520.0,495.0
+529,700.0,University Of Arkansas At Little Rock,City: Midsize,Southeast,Public,12.0,535.0,3.2,540.0,530.0
+530,700.0,University Of Wisconsin-Milwaukee,City: Large,Great Lakes,Public,18.0,3785.0,3.1,,
+531,700.0,Immaculata University,Suburb: Large,Mid East,Private not-for-profit religious,9.0,183.0,3.3,572.5,545.0
+532,700.0,Mount Aloysius College,Town: Fringe,Mid East,Private not-for-profit religious,11.0,246.0,3.4,520.0,510.0
+533,700.0,Lancaster Bible College,Suburb: Large,Mid East,Private not-for-profit independent,14.0,175.0,3.1,560.0,540.0
+534,700.0,University Of Wisconsin-Stevens Point,Town: Distant,Great Lakes,Public,20.0,1717.0,3.3,,
+535,700.0,South Carolina State University,Town: Distant,Southeast,Public,16.0,475.0,2.9,475.0,460.0
+536,700.0,Point Park University,City: Large,Mid East,Private not-for-profit independent,12.0,603.0,3.4,560.0,525.0
+537,700.0,Portland State University,City: Large,Far West,Public,21.0,1770.0,3.5,570.0,550.0
+538,700.0,Ohio Dominican University,City: Large,Great Lakes,Private not-for-profit religious,14.0,259.0,3.3,505.0,505.0
+539,700.0,Johnson & Wales University-Charlotte,City: Large,Southeast,Private not-for-profit independent,19.0,486.0,3.2,,
+540,700.0,Johnson & Wales University-Denver,City: Large,Rocky Mountains,Private not-for-profit independent,13.0,295.0,,,
+541,700.0,Walsh University,Suburb: Large,Great Lakes,Private not-for-profit religious,13.0,453.0,3.5,550.0,540.0
+542,700.0,York College Of Pennsylvania,Suburb: Midsize,Mid East,Private not-for-profit independent,14.0,975.0,3.5,560.0,565.0
+543,700.0,Notre Dame De Namur University,Suburb: Large,Far West,Private not-for-profit religious,11.0,179.0,,485.0,480.0
+544,700.0,La Sierra University,City: Large,Far West,Private not-for-profit religious,12.0,322.0,3.3,515.0,495.0
+545,700.0,University Of Central Oklahoma,Suburb: Large,Southwest,Public,18.0,2002.0,3.4,,
+546,700.0,Northeastern State University,Town: Remote,Southwest,Public,19.0,837.0,3.5,495.0,525.5
+547,700.0,Oklahoma Baptist University,Town: Distant,Southwest,Private not-for-profit religious,15.0,527.0,3.6,560.0,535.0
+548,700.0,University Of Mobile,Rural: Fringe,Southeast,Private not-for-profit religious,13.0,241.0,3.6,495.0,493.5
+549,700.0,Oral Roberts University,City: Large,Southwest,Private not-for-profit religious,16.0,520.0,3.6,567.5,552.5
+550,700.0,Johnson & Wales University-North Miami,Suburb: Large,Southeast,Private not-for-profit independent,20.0,292.0,,,
+551,700.0,University Of La Verne,Suburb: Large,Far West,Private not-for-profit independent,14.0,670.0,3.5,555.0,557.5
+552,700.0,Humboldt State University,Town: Remote,Far West,Public,21.0,1038.0,3.3,545.0,525.0
+553,700.0,University Of South Alabama,City: Midsize,Southeast,Public,18.0,1892.0,3.7,580.0,560.0
+554,700.0,Seton Hill University,Suburb: Large,Mid East,Private not-for-profit religious,14.0,384.0,3.7,,
+555,700.0,University Of South Dakota,Town: Distant,Plains,Public,16.0,1300.0,3.4,570.0,575.0
+556,700.0,Wingate University,Suburb: Large,Southeast,Private not-for-profit independent,16.0,933.0,3.4,540.0,535.0
+557,700.0,Palm Beach Atlantic University,City: Midsize,Southeast,Private not-for-profit religious,12.0,521.0,3.4,570.0,540.0
+558,700.0,University Of Missouri-St Louis,Suburb: Large,Plains,Public,19.0,465.0,3.5,560.0,565.0
+559,700.0,Christopher Newport University,City: Midsize,Southeast,Public,14.0,1228.0,3.8,610.0,585.0
+560,700.0,Bridgewater College,Suburb: Small,Southeast,Private not-for-profit religious,14.0,590.0,3.4,545.0,530.0
+561,700.0,Grand Valley State University,Suburb: Large,Great Lakes,Public,16.0,4287.0,3.6,580.0,565.0
+562,700.0,Benedictine University,Suburb: Large,Great Lakes,Private not-for-profit religious,15.0,453.0,3.4,544.0,540.0
+563,700.0,Madonna University,City: Small,Great Lakes,Private not-for-profit religious,12.0,215.0,3.3,540.0,525.0
+564,700.0,University Of South Carolina-Aiken,Suburb: Large,Southeast,Public,14.0,542.0,3.9,530.0,515.0
+565,700.0,Spring Arbor University,Suburb: Small,Great Lakes,Private not-for-profit religious,11.0,192.0,3.6,570.0,557.5
+566,700.0,Northwest Nazarene University,Suburb: Midsize,Rocky Mountains,Private not-for-profit religious,16.0,277.0,3.6,580.0,555.0
+567,700.0,Chaminade University Of Honolulu,City: Large,Far West,Private not-for-profit religious,11.0,287.0,3.4,530.0,520.0
+568,700.0,Texas State University,Suburb: Small,Southwest,Public,22.0,5966.0,3.4,555.0,540.0
+569,700.0,Belhaven University,City: Midsize,Southeast,Private not-for-profit religious,10.0,204.0,3.4,,
+570,700.0,Jackson State University,City: Midsize,Southeast,Public,15.0,825.0,3.1,505.0,454.0
+571,700.0,Mississippi College,Suburb: Large,Southeast,Private not-for-profit religious,15.0,514.0,3.4,566.5,566.5
+572,700.0,Judson University,City: Midsize,Great Lakes,Private not-for-profit religious,8.0,153.0,3.4,530.0,535.0
+573,700.0,University Of Southern Mississippi,City: Small,Southeast,Public,17.0,2024.0,3.3,,
+574,700.0,Schreiner University,Town: Remote,Southwest,Private not-for-profit religious,13.0,359.0,3.6,525.0,520.0
+575,700.0,Sam Houston State University,Town: Distant,Southwest,Public,21.0,2827.0,3.3,540.0,530.0
+576,700.0,Evangel University,City: Midsize,Plains,Private not-for-profit religious,15.0,372.0,,,
+577,700.0,Savannah College Of Art And Design,City: Midsize,Southeast,Private not-for-profit independent,21.0,2596.0,3.6,580.0,550.0
+578,700.0,University Of Wisconsin-Stout,Town: Distant,Great Lakes,Public,19.0,1378.0,3.2,,
+579,700.0,Midwestern State University,City: Midsize,Southwest,Public,17.0,890.0,3.4,530.0,490.0
+580,700.0,University Of Mary Hardin-Baylor,Suburb: Small,Southwest,Private not-for-profit religious,18.0,872.0,3.6,565.0,550.0
+581,700.0,University Of The Incarnate Word,City: Large,Southwest,Private not-for-profit religious,11.0,816.0,3.5,530.0,515.0
+582,700.0,Life University,City: Small,Southeast,Private not-for-profit independent,15.0,174.0,2.9,490.0,475.0
+583,700.0,Webster University,Suburb: Large,Plains,Private not-for-profit independent,12.0,483.0,3.5,574.0,551.5
+584,700.0,Howard Payne University,Town: Remote,Southwest,Private not-for-profit religious,9.0,248.0,3.3,520.0,505.0
+585,700.0,Montana State University,Town: Remote,Rocky Mountains,Public,19.0,2805.0,3.4,605.0,600.0
+586,700.0,Rocky Mountain College,City: Midsize,Rocky Mountains,Private not-for-profit religious,11.0,252.0,3.4,540.0,542.5
+587,700.0,William Carey University,City: Small,Southeast,Private not-for-profit religious,14.0,163.0,,515.0,525.0
+588,700.0,Midland University,Town: Distant,Plains,Private not-for-profit religious,16.0,330.0,3.3,507.5,505.0
+589,700.0,Mckendree University,Suburb: Large,Great Lakes,Private not-for-profit religious,14.0,362.0,3.5,555.0,560.0
+590,700.0,North Park University,City: Large,Great Lakes,Private not-for-profit religious,10.0,421.0,3.1,533.5,525.0
+591,700.0,Graceland University-Lamoni,Rural: Remote,Plains,Private not-for-profit religious,14.0,267.0,3.3,510.0,520.0
+592,700.0,Benedictine College,Town: Distant,Plains,Private not-for-profit religious,13.0,570.0,3.5,590.0,575.0
+593,700.0,University Of Dubuque,City: Small,Plains,Private not-for-profit religious,13.0,522.0,2.9,495.0,480.0
+594,700.0,Midamerica Nazarene University,Suburb: Large,Plains,Private not-for-profit religious,9.0,164.0,3.3,500.0,525.0
+595,700.0,Eastern Washington University,Town: Fringe,Far West,Public,21.0,1728.0,3.2,495.0,480.0
+596,700.0,Murray State University,Town: Remote,Southeast,Public,15.0,1318.0,3.6,565.5,555.0
+597,700.0,Central Washington University,Town: Distant,Far West,Public,19.0,2148.0,3.1,525.0,535.0
+598,700.0,Spalding University,City: Large,Southeast,Private not-for-profit religious,11.0,180.0,3.9,,545.0
+599,700.0,Thomas More College,Suburb: Large,Southeast,Private not-for-profit religious,16.0,484.0,3.4,520.0,520.0
+600,700.0,Virginia State University,Suburb: Large,Southeast,Public,13.0,928.0,2.9,470.0,455.0
+601,700.0,Radford University,City: Small,Southeast,Public,16.0,1759.0,3.3,,
+602,700.0,Old Dominion University,City: Midsize,Southeast,Public,17.0,3150.0,3.3,555.0,540.0
+603,700.0,University Of Maryland Eastern Shore,Town: Fringe,Mid East,Public,12.0,501.0,2.9,485.0,475.0
+604,700.0,North Central College,City: Midsize,Great Lakes,Private not-for-profit religious,14.0,550.0,3.7,516.5,510.0
+605,700.0,Morgan State University,City: Large,Mid East,Public,13.0,1326.0,3.0,490.0,510.0
+606,700.0,Ball State University,City: Small,Great Lakes,Public,16.0,3675.0,3.5,,
+607,700.0,Bay Path University,Suburb: Large,New England,Private not-for-profit independent,12.0,133.0,3.4,,
+608,700.0,University Of St Francis,Suburb: Large,Great Lakes,Private not-for-profit religious,13.0,214.0,3.5,560.0,550.0
+609,700.0,University Of Mary Washington,Suburb: Midsize,Southeast,Public,14.0,934.0,3.6,594.5,565.0
+610,700.0,Curry College,Suburb: Large,New England,Private not-for-profit independent,12.0,581.0,3.0,515.0,510.0
+611,700.0,Eastern Nazarene College,Suburb: Large,New England,Private not-for-profit religious,10.0,140.0,,535.0,520.0
+612,700.0,Emmanuel College,Town: Distant,Southeast,Private not-for-profit religious,13.0,246.0,3.4,530.0,510.0
+613,700.0,Emmanuel College,City: Large,New England,Private not-for-profit religious,13.0,596.0,3.4,605.0,585.0
+614,700.0,Endicott College,Suburb: Large,New England,Private not-for-profit independent,14.0,761.0,,,
+615,700.0,Rockford University,City: Midsize,Great Lakes,Private not-for-profit independent,10.0,161.0,3.3,550.0,540.0
+616,700.0,Lasell College,City: Small,New England,Private not-for-profit independent,13.0,380.0,,540.0,535.0
+617,700.0,Lesley University,City: Midsize,New England,Private not-for-profit independent,10.0,374.0,3.2,570.0,545.5
+618,700.0,Northeastern Illinois University,City: Large,Great Lakes,Public,14.0,425.0,2.8,,435.0
+619,700.0,Massachusetts College Of Liberal Arts,Town: Fringe,New England,Public,11.0,257.0,3.2,565.0,545.0
+620,700.0,Salisbury University,Suburb: Small,Mid East,Public,15.0,1285.0,3.7,,
+621,700.0,Colby-Sawyer College,Rural: Distant,New England,Private not-for-profit independent,12.0,235.0,3.3,,
+622,700.0,Newberry College,Town: Distant,Southeast,Private not-for-profit religious,13.0,353.0,3.5,515.0,505.0
+623,700.0,University Of Mount Olive,Town: Fringe,Southeast,Private not-for-profit religious,12.0,253.0,2.9,510.5,506.5
+624,700.0,University Of North Florida,City: Large,Southeast,Public,19.0,2333.0,3.9,610.0,590.0
+625,700.0,Central Connecticut State University,Suburb: Large,New England,Public,16.0,1447.0,3.1,545.0,530.0
+626,700.0,Methodist University,City: Midsize,Southeast,Private not-for-profit religious,9.0,370.0,3.3,530.0,525.0
+627,700.0,Lenoir-Rhyne University,City: Small,Southeast,Private not-for-profit religious,13.0,500.0,3.3,535.0,535.0
+628,700.0,High Point University,City: Midsize,Southeast,Private not-for-profit religious,14.0,1423.0,3.3,590.0,580.0
+629,700.0,Cuny John Jay College Of Criminal Justice,City: Large,Mid East,Public,17.0,1852.0,2.9,530.0,530.0
+630,700.0,Cuny York College,City: Large,Mid East,Public,20.0,1107.0,,490.0,480.0
+631,700.0,Daemen College,Suburb: Large,Mid East,Private not-for-profit independent,12.0,338.0,3.6,,
+632,700.0,Elmira College,City: Small,Mid East,Private not-for-profit independent,11.0,206.0,3.2,,
+633,700.0,Florida Atlantic University,City: Small,Southeast,Public,21.0,3158.0,3.7,590.0,570.0
+634,700.0,Keuka College,Town: Distant,Mid East,Private not-for-profit independent,8.0,330.0,,,
+635,700.0,Catawba College,Suburb: Midsize,Southeast,Private not-for-profit independent,12.0,335.0,,520.0,505.0
+636,700.0,Viterbo University,City: Small,Great Lakes,Private not-for-profit religious,11.0,292.0,3.6,590.0,630.0
+637,700.0,Southern Connecticut State University,City: Midsize,New England,Public,14.0,1506.0,3.0,525.0,500.0
+638,700.0,Appalachian State University,Town: Distant,Southeast,Public,16.0,3440.0,4.0,600.0,585.0
+639,700.0,The College Of Saint Rose,City: Small,Mid East,Private not-for-profit independent,14.0,615.0,3.3,,
+640,700.0,Suny Buffalo State,City: Large,Mid East,Public,15.0,1741.0,3.0,455.0,495.0
+641,700.0,Suny At Fredonia,Town: Distant,Mid East,Public,14.0,1175.0,3.2,540.0,530.0
+642,700.0,Suny Oneonta,Town: Remote,Mid East,Public,18.0,1324.0,3.4,525.0,520.0
+643,700.0,Eastern Connecticut State University,Town: Fringe,New England,Public,15.0,966.0,3.2,,
+644,700.0,Suny Maritime College,City: Large,Mid East,Public,15.0,351.0,3.3,577.5,590.0
+645,700.0,University Of North Carolina At Asheville,City: Small,Southeast,Public,13.0,783.0,3.4,590.0,565.0
+646,700.0,North Carolina Central University,City: Large,Southeast,Public,16.0,1126.0,3.2,490.0,485.0
+647,700.0,University Of Wisconsin-Eau Claire,City: Small,Great Lakes,Public,23.0,2451.0,3.5,,
+648,700.0,Carroll University,City: Small,Great Lakes,Private not-for-profit religious,14.0,711.0,3.4,575.0,565.0
+649,700.0,Centenary University,Suburb: Large,Mid East,Private not-for-profit religious,13.0,224.0,,495.0,485.0
+650,700.0,University Of North Carolina Wilmington,City: Midsize,Southeast,Public,17.0,2143.0,4.0,630.0,625.0
+651,700.0,Concordia College-New York,Suburb: Large,Mid East,Private not-for-profit religious,10.0,162.0,,515.0,520.0
+652,700.0,New Jersey City University,City: Large,Mid East,Public,13.0,959.0,2.9,480.0,475.0
+653,700.0,Kean University,Suburb: Large,Mid East,Public,17.0,1781.0,3.0,495.0,490.0
+654,700.0,Emmanuel College,Town: Distant,Southeast,Private not-for-profit religious,13.0,246.0,3.4,530.0,510.0
+655,700.0,Emmanuel College,City: Large,New England,Private not-for-profit religious,13.0,596.0,3.4,605.0,585.0
+656,700.0,Caldwell University,Suburb: Large,Mid East,Private not-for-profit religious,13.0,494.0,3.3,529.0,525.0
+657,700.0,Ramapo College Of New Jersey,Suburb: Large,Mid East,Public,16.0,944.0,3.4,575.0,570.0
+658,700.0,Dallas Baptist University,City: Large,Southwest,Private not-for-profit religious,13.0,535.0,3.5,605.0,575.0
+659,700.0,Georgian Court University,City: Small,Mid East,Private not-for-profit religious,12.0,280.0,3.4,517.5,515.0
+660,700.0,Covenant College,Rural: Fringe,Southeast,Private not-for-profit religious,13.0,251.0,3.7,635.0,600.0
+661,700.0,University Of New Hampshire At Manchester,City: Midsize,New England,Public,10.0,93.0,,560.0,550.0
+662,700.0,William Paterson University Of New Jersey,Suburb: Large,Mid East,Public,14.0,1698.0,3.1,500.0,490.0
+663,700.0,Clark Atlanta University,City: Large,Southeast,Private not-for-profit religious,19.0,918.0,3.3,530.0,500.0
+664,700.0,Cazenovia College,Town: Fringe,Mid East,Private not-for-profit independent,10.0,244.0,3.1,,
+665,700.0,Franklin Pierce University,Rural: Fringe,New England,Private not-for-profit independent,12.0,455.0,2.9,520.0,530.0
+666,700.0,Pfeiffer University,Rural: Distant,Southeast,Private not-for-profit religious,10.0,308.0,3.2,510.0,505.0
+667,700.0,Carthage College,Suburb: Midsize,Great Lakes,Private not-for-profit religious,12.0,761.0,3.3,560.0,575.0
+668,931.0,University Of Wisconsin-Green Bay,City: Midsize,Great Lakes,Public,23.0,1171.0,3.3,,
+669,931.0,Middle Tennessee State University,City: Midsize,Southeast,Public,17.0,2862.0,3.5,575.0,555.0
+670,931.0,Coastal Carolina University,City: Small,Southeast,Public,16.0,2313.0,3.6,555.0,545.0
+671,931.0,University Of Wisconsin-Oshkosh,City: Small,Great Lakes,Public,22.0,2290.0,3.3,,
+672,931.0,Kennesaw State University,Suburb: Large,Southeast,Public,21.0,4658.0,3.4,595.0,580.0
+673,931.0,Trevecca Nazarene University,City: Large,Southeast,Private not-for-profit religious,20.0,380.0,3.4,575.0,550.0
+674,931.0,Alderson Broaddus University,Town: Distant,Southeast,Private not-for-profit religious,14.0,256.0,3.2,505.0,505.0
+675,931.0,Norfolk State University,City: Midsize,Southeast,Public,16.0,1065.0,2.9,480.0,465.0
+676,931.0,Tennessee Technological University,Town: Remote,Southeast,Public,18.0,1874.0,3.6,575.0,580.0
+677,931.0,University Of Wisconsin-Parkside,Suburb: Midsize,Great Lakes,Public,19.0,604.0,3.1,,
+678,931.0,University Of South Florida-St Petersburg,City: Large,Southeast,Public,18.0,536.0,3.7,610.0,565.0
+679,931.0,The University Of Tennessee-Martin,Town: Remote,Southeast,Public,15.0,1124.0,3.5,,
+680,931.0,Northwest University,Suburb: Large,Far West,Private not-for-profit religious,12.0,224.0,,575.0,552.5
+681,931.0,The Evergreen State College,Suburb: Midsize,Far West,Public,21.0,302.0,3.1,,
+682,931.0,Florida Gulf Coast University,Suburb: Large,Southeast,Public,22.0,2833.0,3.9,580.0,555.0
+683,931.0,Cardinal Stritch University,Suburb: Large,Great Lakes,Private not-for-profit religious,8.0,156.0,3.2,467.0,480.5
+684,931.0,Concordia University Texas,City: Large,Southwest,Private not-for-profit religious,12.0,213.0,3.3,530.0,525.0
+685,931.0,Longwood University,Town: Remote,Southeast,Public,14.0,1003.0,3.4,545.0,520.0
+686,931.0,University Of Houston-Downtown,City: Large,Southwest,Public,18.0,974.0,,505.0,505.0
+687,931.0,Austin Peay State University,City: Midsize,Southeast,Public,18.0,1819.0,3.3,545.5,522.5
+688,931.0,Lubbock Christian University,City: Large,Southwest,Private not-for-profit religious,13.0,293.0,3.6,550.0,532.5
+689,931.0,Our Lady Of The Lake University,City: Large,Southwest,Private not-for-profit religious,11.0,373.0,3.5,505.0,490.0
+690,931.0,Lakeland University,Rural: Fringe,Great Lakes,Private not-for-profit religious,13.0,217.0,3.0,490.0,485.0
+691,931.0,Cumberland University,Town: Fringe,Southeast,Private not-for-profit independent,17.0,601.0,3.3,505.0,505.0
+692,931.0,Tarleton State University,Town: Remote,Southwest,Public,19.0,2045.0,,530.0,520.0
+693,931.0,West Liberty University,Rural: Fringe,Southeast,Public,13.0,468.0,3.4,545.0,515.0
+694,931.0,Texas Southern University,City: Large,Southwest,Public,18.0,1503.0,2.8,460.0,450.0
+695,931.0,Shepherd University,Town: Fringe,Southeast,Public,16.0,584.0,3.4,540.0,525.0
+696,931.0,Black Hills State University,Town: Distant,Plains,Public,18.0,444.0,3.1,545.0,524.0
+697,931.0,University Of Wisconsin-Whitewater,Town: Distant,Great Lakes,Public,20.0,2119.0,3.3,,
+698,931.0,East Tennessee State University,City: Small,Southeast,Public,16.0,1960.0,3.4,540.0,535.0
+699,931.0,Marshall University,City: Small,Southeast,Public,18.0,1668.0,3.5,525.0,495.0
+700,931.0,Southern Utah University,Town: Remote,Rocky Mountains,Public,19.0,2041.0,3.5,575.0,555.0
+701,931.0,University Of Wisconsin-River Falls,Town: Distant,Great Lakes,Public,22.0,1293.0,3.4,,
+702,931.0,Utah State University,City: Small,Rocky Mountains,Public,20.0,4086.0,3.6,590.0,580.0
+703,931.0,Fairmont State University,Town: Distant,Southeast,Public,16.0,821.0,3.3,510.0,485.0
+704,931.0,Freed-Hardeman University,Town: Distant,Southeast,Private not-for-profit religious,13.0,308.0,3.6,610.0,545.0
+705,931.0,Lee University,City: Small,Southeast,Private not-for-profit religious,16.0,875.0,3.7,555.0,535.0
+706,931.0,University Of Sioux Falls,City: Midsize,Plains,Private not-for-profit religious,16.0,303.0,3.4,570.0,550.0
+707,931.0,Ferrum College,Rural: Distant,Southeast,Private not-for-profit religious,13.0,425.0,2.9,486.5,475.0
+708,931.0,Angelo State University,City: Midsize,Southwest,Public,20.0,1517.0,3.3,510.0,505.0
+709,931.0,Concord University,Town: Distant,Southeast,Public,15.0,428.0,3.4,515.0,505.0
+710,931.0,University Of Wisconsin-Platteville,Town: Distant,Great Lakes,Public,21.0,1605.0,3.4,,
+711,931.0,The University Of Tennessee-Chattanooga,City: Midsize,Southeast,Public,19.0,2245.0,3.5,560.0,540.0
+712,931.0,Bloomfield College,Suburb: Large,Mid East,Private not-for-profit religious,14.0,390.0,2.7,480.0,480.0
+713,931.0,Lander University,Town: Distant,Southeast,Public,16.0,870.0,3.7,525.0,500.0
+714,931.0,Morehead State University,Town: Remote,Southeast,Public,18.0,1465.0,3.5,,
+715,931.0,Eastern Kentucky University,Town: Distant,Southeast,Public,15.0,2368.0,3.3,555.0,550.0
+716,931.0,University Of The Cumberlands,Town: Remote,Southeast,Private not-for-profit religious,15.0,466.0,3.5,537.5,550.0
+717,931.0,Campbellsville University,Town: Distant,Southeast,Private not-for-profit religious,13.0,640.0,3.3,505.0,541.5
+718,931.0,Wichita State University,City: Large,Plains,Public,19.0,1648.0,3.4,585.0,585.0
+719,931.0,Pittsburg State University,Town: Distant,Plains,Public,17.0,957.0,3.3,,
+720,931.0,Newman University,City: Large,Plains,Private not-for-profit religious,11.0,180.0,3.6,545.0,545.0
+721,931.0,Emporia State University,Town: Remote,Plains,Public,17.0,656.0,3.4,512.5,526.5
+722,931.0,William Penn University,Town: Remote,Plains,Private not-for-profit religious,16.0,281.0,2.9,,
+723,931.0,Grand View University,City: Midsize,Plains,Private not-for-profit religious,12.0,328.0,3.3,505.0,510.0
+724,931.0,Indiana State University,City: Small,Great Lakes,Public,20.0,2387.0,3.2,515.0,500.0
+725,931.0,University Of Southern Indiana,Suburb: Midsize,Great Lakes,Public,16.0,1627.0,3.4,540.0,540.0
+726,931.0,Grace College And Theological Seminary,Town: Distant,Great Lakes,Private not-for-profit religious,19.0,316.0,3.6,575.0,560.0
+727,931.0,Quincy University,Town: Remote,Great Lakes,Private not-for-profit religious,14.0,261.0,3.3,535.0,515.0
+728,931.0,Northern Kentucky University,Suburb: Large,Southeast,Public,19.0,1946.0,3.5,560.0,550.0
+729,931.0,Olivet Nazarene University,Suburb: Small,Great Lakes,Private not-for-profit religious,16.0,692.0,3.5,565.0,545.0
+730,931.0,Western Kentucky University,City: Small,Southeast,Public,18.0,2889.0,3.4,550.0,535.0
+731,931.0,Mcneese State University,City: Small,Southeast,Public,20.0,1354.0,3.5,530.0,525.0
+732,931.0,Nichols College,Suburb: Large,New England,Private not-for-profit independent,17.0,353.0,3.0,,
+733,931.0,Newbury College,Suburb: Large,New England,Private not-for-profit independent,13.0,194.0,2.5,,
+734,931.0,Framingham State University,City: Small,New England,Public,14.0,756.0,3.0,525.0,520.0
+735,931.0,Fitchburg State University,Suburb: Midsize,New England,Public,14.0,713.0,3.0,540.0,535.0
+736,931.0,Bridgewater State University,Suburb: Large,New England,Public,19.0,1481.0,3.1,540.0,530.0
+737,931.0,Frostburg State University,Suburb: Small,Mid East,Public,15.0,735.0,3.2,515.0,505.0
+738,931.0,Coppin State University,City: Large,Mid East,Public,13.0,389.0,2.6,485.0,470.0
+739,931.0,Bowie State University,Suburb: Large,Mid East,Public,16.0,898.0,2.5,,
+740,931.0,University Of Southern Maine,City: Small,New England,Public,13.0,391.0,3.2,535.0,510.0
+741,931.0,University Of Maine At Farmington,Town: Remote,New England,Public,12.0,390.0,3.1,,
+742,931.0,University Of Louisiana At Lafayette,City: Midsize,Southeast,Public,19.0,2721.0,3.3,575.0,565.0
+743,931.0,Southeastern Louisiana University,City: Small,Southeast,Public,20.0,2004.0,3.3,,
+744,931.0,University Of Louisiana At Monroe,City: Small,Southeast,Public,20.0,1213.0,3.4,,
+745,931.0,Nicholls State University,City: Small,Southeast,Public,19.0,1291.0,3.2,485.0,495.0
+746,931.0,University Of New Orleans,City: Large,Southeast,Public,19.0,1003.0,3.2,590.0,565.0
+747,931.0,Louisiana Tech University,Town: Distant,Southeast,Public,23.0,2181.0,3.7,445.0,475.0
+748,931.0,Columbia College Chicago,City: Large,Great Lakes,Private not-for-profit independent,13.0,1296.0,3.3,,
+749,931.0,Aurora University,Suburb: Large,Great Lakes,Private not-for-profit independent,19.0,762.0,3.4,535.0,525.0
+750,931.0,Lewis-Clark State College,City: Small,Rocky Mountains,Public,12.0,472.0,3.1,505.0,495.0
+751,931.0,Adams State University,Town: Remote,Rocky Mountains,Public,12.0,412.0,3.2,495.0,480.0
+752,931.0,Pacific Union College,Rural: Fringe,Far West,Private not-for-profit religious,12.0,163.0,,545.0,525.0
+753,931.0,Henderson State University,Town: Distant,Southeast,Public,14.0,842.0,3.2,529.0,525.0
+754,931.0,University Of Central Arkansas,City: Small,Southeast,Public,15.0,2023.0,3.5,530.0,540.0
+755,931.0,Arkansas Tech University,Town: Remote,Southeast,Public,18.0,1633.0,3.3,,
+756,931.0,University Of Alaska Anchorage,City: Large,Far West,Public,14.0,1150.0,,,
+757,931.0,Oakwood University,City: Midsize,Southeast,Private not-for-profit religious,11.0,316.0,3.0,425.0,551.0
+758,931.0,University Of North Alabama,City: Small,Southeast,Public,19.0,987.0,3.4,560.0,540.0
+759,931.0,University Of Montevallo,Suburb: Large,Southeast,Public,13.0,488.0,3.6,,
+760,931.0,University Of West Alabama,Rural: Remote,Southeast,Public,14.0,413.0,,480.0,460.0
+761,931.0,Jacksonville State University,City: Small,Southeast,Public,18.0,1060.0,3.4,445.0,475.0
+762,931.0,Huntingdon College,City: Midsize,Southeast,Private not-for-profit religious,14.0,248.0,,540.0,534.0
+763,931.0,Faulkner University,City: Midsize,Southeast,Private not-for-profit religious,12.0,253.0,3.4,530.0,575.0
+764,931.0,Auburn University At Montgomery,City: Midsize,Southeast,Public,17.0,730.0,3.4,540.0,525.0
+765,931.0,Alabama State University,City: Midsize,Southeast,Public,15.0,1025.0,3.1,480.0,465.0
+766,931.0,University Of Colorado Colorado Springs,City: Large,Rocky Mountains,Public,18.0,1943.0,3.4,560.0,550.0
+767,931.0,Colorado Mesa University,City: Small,Rocky Mountains,Public,20.0,1931.0,3.1,500.0,495.0
+768,931.0,Metropolitan State University Of Denver,City: Large,Rocky Mountains,Public,17.0,2037.0,3.0,510.0,495.0
+769,931.0,University Of Northern Colorado,City: Midsize,Rocky Mountains,Public,17.0,1939.0,3.4,555.0,535.0
+770,931.0,Boise State University,City: Midsize,Rocky Mountains,Public,17.0,2728.0,3.5,570.0,555.0
+771,931.0,University Of West Georgia,Town: Fringe,Southeast,Public,19.0,2182.0,3.2,530.0,470.0
+772,931.0,Valdosta State University,City: Small,Southeast,Public,19.0,1631.0,3.1,550.0,520.0
+773,931.0,Savannah State University,City: Midsize,Southeast,Public,17.0,744.0,2.8,730.0,570.0
+774,931.0,Georgia Southern University,Town: Distant,Southeast,Public,20.0,4224.0,3.4,575.0,555.0
+775,931.0,Georgia College & State University,Town: Distant,Southeast,Public,17.0,1481.0,3.5,610.0,585.0
+776,931.0,Fort Valley State University,Town: Fringe,Southeast,Public,17.0,454.0,2.8,506.5,445.0
+777,931.0,Salem State University,Suburb: Large,New England,Public,14.0,1097.0,3.1,535.0,525.0
+778,931.0,Columbus State University,City: Midsize,Southeast,Public,16.0,1065.0,3.1,505.0,480.0
+779,931.0,Albany State University,City: Small,Southeast,Public,18.0,1499.0,2.9,420.0,405.0
+780,931.0,Lynn University,City: Small,Southeast,Private not-for-profit independent,18.0,630.0,3.0,545.0,535.0
+781,931.0,Wesley College,City: Small,Mid East,Private not-for-profit religious,12.0,281.0,2.7,466.5,455.0
+782,931.0,Western Connecticut State University,City: Small,New England,Public,13.0,881.0,3.1,,
+783,931.0,University Of Bridgeport,City: Midsize,New England,Private not-for-profit independent,16.0,523.0,3.0,505.0,490.0
+784,931.0,Western State Colorado University,Town: Remote,Rocky Mountains,Public,14.0,501.0,,550.0,535.0
+785,931.0,Colorado State University-Pueblo,City: Midsize,Rocky Mountains,Public,14.0,668.0,3.3,515.0,505.0
+786,931.0,Clayton  State University,Suburb: Large,Southeast,Public,19.0,547.0,,,
+787,931.0,North Greenville University,Rural: Fringe,Southeast,Private not-for-profit religious,14.0,499.0,3.5,540.0,545.0
+788,931.0,Westfield State University,Suburb: Large,New England,Public,16.0,999.0,3.1,542.5,540.0
+789,931.0,Aquinas College,City: Midsize,Great Lakes,Private not-for-profit religious,11.0,332.0,3.5,565.0,555.0
+790,931.0,East Central University,Town: Remote,Southwest,Public,18.0,413.0,3.4,515.0,505.0
+791,931.0,Youngstown State University,City: Small,Great Lakes,Public,17.0,2298.0,3.4,535.0,540.0
+792,931.0,Wilmington College,Town: Distant,Great Lakes,Private not-for-profit religious,15.0,385.0,3.2,505.0,505.0
+793,931.0,Lake Erie College,Suburb: Large,Great Lakes,Private not-for-profit independent,14.0,195.0,3.1,506.5,520.0
+794,931.0,Kent State University At Kent,Suburb: Large,Great Lakes,Public,20.0,4330.0,3.4,570.0,550.0
+795,931.0,University Of Mary,Rural: Fringe,Plains,Private not-for-profit religious,14.0,529.0,3.5,591.0,568.5
+796,931.0,University Of Jamestown,Town: Remote,Plains,Private not-for-profit religious,10.0,270.0,,520.0,520.0
+797,931.0,Western Carolina University,Town: Distant,Southeast,Public,17.0,2189.0,3.4,565.0,555.0
+798,931.0,Shaw University,City: Large,Southeast,Private not-for-profit religious,16.0,390.0,2.6,,
+799,931.0,University Of North Carolina At Pembroke,Town: Distant,Southeast,Public,18.0,1212.0,3.6,510.0,492.5
+800,931.0,Mars Hill University,Suburb: Large,Southeast,Private not-for-profit independent,9.0,264.0,3.2,520.0,505.0
+801,931.0,Fayetteville State University,City: Midsize,Southeast,Public,17.0,611.0,3.4,485.0,475.0
+802,931.0,Chowan University,Town: Distant,Southeast,Private not-for-profit religious,16.0,414.0,2.7,465.0,440.0
+803,931.0,Belmont Abbey College,Suburb: Midsize,Southeast,Private not-for-profit religious,17.0,392.0,,540.0,525.0
+804,931.0,Suny College At Old Westbury,Suburb: Large,Mid East,Public,20.0,651.0,3.1,516.5,485.0
+805,931.0,Northwestern Oklahoma State University,Town: Remote,Southwest,Public,15.0,369.0,3.3,565.0,570.0
+806,931.0,Nyack College,Suburb: Large,Mid East,Private not-for-profit religious,12.0,189.0,2.9,502.5,485.5
+807,931.0,Oklahoma Christian University,City: Large,Southwest,Private not-for-profit religious,13.0,454.0,3.6,575.0,575.0
+808,931.0,Southeastern Oklahoma State University,Town: Distant,Southwest,Public,20.0,558.0,3.4,,
+809,931.0,Southern Wesleyan University,Suburb: Large,Southeast,Private not-for-profit religious,14.0,206.0,3.5,520.0,540.0
+810,931.0,Charleston Southern University,City: Midsize,Southeast,Private not-for-profit religious,12.0,582.0,,565.0,545.0
+811,931.0,Rhode Island College,Suburb: Large,New England,Public,14.0,830.0,,505.0,490.0
+812,931.0,Neumann University,Suburb: Large,Mid East,Private not-for-profit religious,14.0,421.0,3.1,505.0,495.0
+813,931.0,Mansfield University Of Pennsylvania,Town: Distant,Mid East,Public,14.0,325.0,3.4,530.0,510.0
+814,931.0,Lock Haven University,Town: Distant,Mid East,Public,16.0,687.0,3.3,510.0,505.0
+815,931.0,Kutztown University Of Pennsylvania,Town: Fringe,Mid East,Public,18.0,1610.0,3.2,535.0,520.0
+816,931.0,Delaware Valley University,Suburb: Large,Mid East,Private not-for-profit independent,13.0,443.0,3.3,540.0,525.0
+817,931.0,Clarion University Of Pennsylvania,Town: Remote,Mid East,Public,17.0,707.0,3.3,525.0,515.0
+818,931.0,California University Of Pennsylvania,Suburb: Small,Mid East,Public,18.0,973.0,3.2,505.0,495.0
+819,931.0,Western Oregon University,Town: Fringe,Far West,Public,14.0,781.0,3.3,,
+820,931.0,Corban University,City: Midsize,Far West,Private not-for-profit religious,12.0,200.0,3.6,565.0,550.0
+821,931.0,Southern Oregon University,Suburb: Midsize,Far West,Public,26.0,644.0,3.3,545.0,490.0
+822,931.0,Concordia University-Portland,City: Large,Far West,Private not-for-profit religious,18.0,244.0,3.4,545.0,535.0
+823,931.0,Southwestern Oklahoma State University,Town: Remote,Southwest,Public,18.0,969.0,3.4,,
+824,931.0,University Of Science And Arts Of Oklahoma,Town: Distant,Southwest,Public,13.0,212.0,3.4,447.5,465.0
+825,931.0,Mount Saint Mary College,Suburb: Large,Mid East,Private not-for-profit religious,14.0,388.0,3.2,555.0,540.0
+826,931.0,Medaille College,City: Large,Mid East,Private not-for-profit independent,12.0,386.0,,490.0,485.0
+827,931.0,Marymount Manhattan College,City: Large,Mid East,Private not-for-profit independent,10.0,471.0,3.5,580.0,545.0
+828,931.0,Southwest Minnesota State University,Town: Remote,Plains,Public,15.0,345.0,,467.5,480.0
+829,931.0,North Central University,City: Large,Plains,Private not-for-profit religious,17.0,220.0,,579.0,541.5
+830,931.0,Minnesota State University Moorhead,Suburb: Midsize,Plains,Public,19.0,785.0,3.4,520.0,535.0
+831,931.0,Metropolitan State University,City: Large,Plains,Public,16.0,112.0,,,
+832,931.0,Minnesota State University-Mankato,City: Small,Plains,Public,22.0,2364.0,3.2,,
+833,931.0,Bemidji State University,Town: Remote,Plains,Public,21.0,735.0,3.2,,
+834,931.0,Saginaw Valley State University,Suburb: Midsize,Great Lakes,Public,17.0,1571.0,3.4,555.0,540.0
+835,931.0,Oakland University,Suburb: Large,Great Lakes,Public,20.0,2679.0,3.5,565.0,560.0
+836,931.0,Northern Michigan University,Town: Remote,Great Lakes,Public,20.0,1611.0,3.2,545.0,530.0
+837,931.0,University Of Michigan-Flint,City: Small,Great Lakes,Public,12.0,641.0,3.4,555.0,535.0
+838,931.0,Rochester College,Suburb: Large,Great Lakes,Private not-for-profit religious,12.0,136.0,3.0,500.0,485.0
+839,931.0,Lake Superior State University,Town: Remote,Great Lakes,Public,16.0,406.0,3.3,540.0,525.0
+840,931.0,Cornerstone University,City: Midsize,Great Lakes,Private not-for-profit religious,15.0,319.0,3.6,540.0,525.0
+841,931.0,Eastern Michigan University,Suburb: Large,Great Lakes,Public,14.0,2373.0,3.3,520.0,510.0
+842,931.0,Central Michigan University,Town: Distant,Great Lakes,Public,20.0,2711.0,3.4,560.0,540.0
+843,931.0,Winona State University,Town: Distant,Plains,Public,18.0,1537.0,3.4,535.0,560.0
+844,931.0,Alcorn State University,Rural: Remote,Southeast,Public,18.0,601.0,3.2,485.0,495.0
+845,931.0,Delta State University,Town: Remote,Southeast,Public,12.0,283.0,3.4,530.0,540.0
+846,931.0,University Of Central Missouri,Town: Distant,Plains,Public,17.0,1459.0,3.4,,
+847,931.0,Hilbert College,Suburb: Large,Mid East,Private not-for-profit religious,12.0,221.0,3.2,,
+848,931.0,Husson University,City: Small,New England,Private not-for-profit independent,15.0,652.0,3.3,520.0,515.0
+849,931.0,Plymouth State University,Town: Remote,New England,Public,17.0,1094.0,3.0,,
+850,931.0,Keene State College,Town: Distant,New England,Public,14.0,947.0,3.0,535.0,515.0
+851,931.0,University Of Nebraska At Kearney,Town: Distant,Plains,Public,13.0,939.0,3.5,515.0,512.5
+852,931.0,The University Of Montana-Western,Town: Remote,Rocky Mountains,Public,17.0,237.0,3.0,535.0,495.0
+853,931.0,William Woods University,Town: Distant,Plains,Private not-for-profit religious,10.0,179.0,3.4,556.5,554.0
+854,931.0,Worcester State University,City: Midsize,New England,Public,17.0,887.0,3.3,,
+855,931.0,Missouri State University-Springfield,City: Midsize,Plains,Public,21.0,3006.0,3.6,565.0,554.0
+856,931.0,Southwest Baptist University,Town: Distant,Plains,Private not-for-profit religious,12.0,438.0,3.5,555.0,546.5
+857,931.0,Northwest Missouri State University,Town: Remote,Plains,Public,22.0,1315.0,3.4,535.5,549.0
+858,931.0,Missouri Valley College,Town: Remote,Plains,Private not-for-profit religious,16.0,520.0,2.9,495.0,495.0
+859,931.0,Missouri Southern State University,City: Small,Plains,Public,19.0,861.0,3.3,,
+860,931.0,Missouri Baptist University,Suburb: Large,Plains,Private not-for-profit religious,19.0,253.0,3.2,510.0,510.0
+861,931.0,Lindenwood University,City: Small,Plains,Private not-for-profit independent,14.0,1039.0,3.3,540.0,540.0
+862,931.0,Drury University,City: Midsize,Plains,Private not-for-profit religious,11.0,377.0,3.8,595.0,580.0
+863,931.0,Southeast Missouri State University,City: Small,Plains,Public,20.0,1466.0,3.5,565.0,570.0
+864,931.0,Purdue University Northwest,Suburb: Large,Great Lakes,Public,17.0,1121.0,3.1,495.0,490.0
