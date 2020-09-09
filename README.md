@@ -13,9 +13,7 @@ gunicorn server:app
 ### Base URL
 This api is deployed to Heroku and running on a free dyno. Use the following base URL to access the API:
 
-```
-https://where2apply-api.herokuapp.com
-```
+[https://where2apply-api.herokuapp.com](https://where2apply-api.herokuapp.com)
 
 ### API Endpoints
 |Endpoint|Method|Request|Response|
