@@ -8,4 +8,4 @@ app = Flask(__name__)
 @app.route("/api/v1/colleges/list", methods=['POST'])
 def run_colleges_script():
     data = request.json
-    return get_colleges(data)
+    return jsonify(get_colleges(data))
